@@ -34,6 +34,8 @@ This folder contains a series of curated dataset derived from the **Physical Che
 5. Compounds with multiple solubility records in the same solvent with entries that differ by more than 0.5 (`/LogSsameSolvDiffer`)
 6. Compounds with LogS OR HLC data (`/LogS_HLC`)
 7. Compounds with LogS AND HLC data (`/LogSandHLC`)
+8. Compounds with HLC data (`/HLC`)
+
 
 ---
 
