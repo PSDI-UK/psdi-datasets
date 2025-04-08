@@ -1,7 +1,7 @@
 # **PSDI Phase 2 PF3: Physical Chemistry Properties Data Collection**
 ### **Datasets**
 
-**Last updated:** 2025-03-31.  
+**Last updated:** 2025-04-08.  
 
 ---
 
@@ -29,22 +29,30 @@ This folder contains a series of curated dataset derived from the **Physical Che
 
 ## **Dataset Overview**
 
+The datasets are divided into two types. Datasets derived from the Physical Chemistry Properties Data Collection and datasets derived from the book NSRDS-NBS 36.
+
+The following datasets are derived from Physical Chemistry Properties Data Collection. These data sets each consit of two files. A list of the compounds contained in the dataset (DATASETNAME_Compouncs.csv) and a a list of records containing the appropriate data (DATASETNAME_records.csv).
+
 1. Compouds with both MP AND BP data (`/MP_BP`)
 2. Compounds with LogS data (`/LogS`)
-3. Compounds with both Solubility AND Micibility data (`/ogS_Misc`)
+3. Compounds with both Solubility AND Micibility data (`/LogS_Misc`)
 4. Compounds without cannoical names
 5. Compounds with multiple solubility records in the same solvent with entries that differ by more than 0.5 (`/LogSsameSolvDiffer`)
 6. Compounds with LogS OR HLC data (`/LogS_HLC`)
 7. Compounds with LogS AND HLC data (`/LogSandHLC`)
 8. Compounds with HLC data (`/HLC`)
-9. CMC compounds
-10. NIST CMC table
+
+These datasets are contained within the zip file `datasets.zip`
+
+The following datasets are derived from NSRDS-NBS 36 and extracted into machine readable format. The ...compounds.csv file lists all the compounds and their ID information listed in the NSRDS-NBS 36 book. The ...Values.csv table lists all the CMC values for each of those compounds,
+
+1. CMC compounds (`CNC_compunds.csv`
+2. NIST CMC table (`NIST_Table_Of_Critical_Micelle_Concentration_Values.csv`)
+
+These datasets are contained within the zip file `CMC datasets.zip`
 
 ---
 
-## **Dataset Contents**
-
----
 
 ## **License**
 
