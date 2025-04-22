@@ -56,4 +56,4 @@ These datasets are contained within the zip file `CMC datasets.zip`
 
 ## **License**
 
-To be confirmed (TBC).
+CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/
