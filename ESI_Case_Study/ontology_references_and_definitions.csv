@@ -1,0 +1,6 @@
+"term	",ontology definition or our definition (if not found within ontology)
+"Solvent	",http://purl.obolibrary.org/obo/NCIT_C45790
+"Concentration	",http://purl.obolibrary.org/obo/NCIT_C41185
+"Pre-CMC Region	"," ""The pre-CMC region refers to the range of concentrations below the Critical Micelle Concentration. In this region the surfactant molecules exist primarily as these monomers adsorb at the air-liquid interface individual monomers dispersed in the solution. As the concentration increases reducing the surface tension gradually."""
+Post-CMC ,"Region micelles, which are more stable structures. The surface tension remains relatively constant and reaches a plateau value since the surface is saturated with surfactant molecules in the form of micelles or monolayers.	""The post-CMC region corresponds to concentrations above the Critical Micelle Concentration. In this region the surfactant molecules form"""
+"Simplified Molecular Input Line Entry Specification	",http://purl.obolibrary.org/obo/NCIT_C54684

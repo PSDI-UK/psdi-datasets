@@ -1,0 +1,81 @@
+{
+    "caption": "Calculation of CMC (198.01 mM) for compound 50 in an EtOH: H2O 1:19 mixture using surface tension measurements.",
+    "compound": {
+        "name": "compound 50",
+        "SMILES": "O=C(Nc1cccc2c1cccc2)NCCCS(=O)(=O)[O-].CCCC[N+](CCCC)(CCCC)CCCC"
+    },
+    "solvent": {
+        "name": "EtOH: H2O 1:19",
+        "ratio": "1:19"
+    },
+    "CMC_value": {
+        "CMC (mM)": "198.01",
+        "Surface Tension at CMC (mN/m)": "37.10"
+    },
+    "data": [
+        {
+            "x": 400,
+            "y": 39.92
+        },
+        {
+            "x": 350,
+            "y": 39.20
+        },
+        {
+            "x": 300,
+            "y": 38.60
+        },
+        {
+            "x": 250,
+            "y": 37.84
+        },
+        {
+            "x": 200,
+            "y": 37.08
+        },
+        {
+            "x": 190,
+            "y": 38.07
+        },
+        {
+            "x": 180,
+            "y": 39.78
+        },
+        {
+            "x": 170,
+            "y": 41.51
+        },
+        {
+            "x": 160,
+            "y": 43.06
+        },
+        {
+            "x": 150,
+            "y": 44.03
+        },
+        {
+            "x": 140,
+            "y": 45.58
+        }
+    ],
+    "line_of_best_fit": [
+        {
+            "slope": -0.149,
+            "y_intercept": 66.611,
+            "R_squared": 0.9935,
+            "type": "pre-CMC",
+            "x_function": "x"
+        },
+        {
+            "slope": 0.0144,
+            "y_intercept": 34.247,
+            "R_squared": 0.9989,
+            "type": "post-CMC",
+            "x_function": "x"
+        }
+    ],
+    "units": {
+        "x": "Concentration (mM)",
+        "y": "Surface Tension (mN/m)"
+    }
+}

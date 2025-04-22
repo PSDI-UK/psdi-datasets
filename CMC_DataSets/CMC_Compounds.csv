@@ -1,0 +1,720 @@
+﻿Compound No.,Mol. Wgt.,Name,IUPAC,SMILES,Lookup wgt.,Method
+1,288.3,SODIUM DODECYL 1 SULFATE,sodium;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],288.38,LLM initial name and weight
+2,232.2,SODIUM OCTYL 1 SULFATE,sodium;2-ethylhexyl sulfate,CCCCC(CC)COS(=O)(=O)[O-].[Na+],232.28,LLM initial name and weight
+3,260.3,SODIUM DECYL 1 SULFATE,sodium;decyl sulfate,CCCCCCCCCCOS(=O)(=O)[O-].[Na+],260.33,LLM initial name and weight
+4,316.4,SODIUM TETRADECYL 1 SULFATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+5,344.4,SODIUM HEXADECYL 1 SULFATE,sodium;hexadecyl sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],344.5,LLM initial name and weight
+6,260.2,SODIUM ALPHA SULFOPELARGONIC ACID,sodium;hexyl 3-oxidoperoxysulfanylpropanoate,CCCCCCOC(=O)CCSOO[O-].[Na+],260.29,LLM initial name and weight
+7,372.4,SODIUM OCTYL ALPHA SULFOPELARGONATE,sodium;1-methoxy-1-oxohexadecane-2-sulfonate,CCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+8,484.6,DISODIUM ALPHA SULFOPHENYLSTEARATE,None,CCCCCCCCCC1=CC=C(C=C1)C(C(CCCC(=O)O)O)SCCC(=O)O.[Na].[Na],484.6,Found by mass lookup
+9,386.5,SODIUM ALPHA SULFOSTEARIC ACID,sodium;18-hydroxy-18-oxooctadecane-1-sulfonate,C(CCCCCCCCC(=O)O)CCCCCCCCS(=O)(=O)[O-].[Na+],386.5,LLM initial name and weight
+10,408.5,DISODIUM ALPHA SULFOSTEARATE,disodium;2-sulfonatooctadecanoate,CCCCCCCCCCCCCCCCC(C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+],408.5,LLM initial name and weight
+11,462.6,SODIUM ALPHA SULFO PHENYL STEARIC ACID,sodium;5-acetyl-2-hexadecoxybenzenesulfonate,CCCCCCCCCCCCCCCCOC1=C(C=C(C=C1)C(=O)C)S(=O)(=O)[O-].[Na+],462.6,LLM retried name and weight
+12,455.4,"SODIUM 9,10 DICHLORO ALPHA SULFOSTEARIC ACID",N/A,N/A,0,Unknown
+13,477.3,"DISODIUM 9,10 DICHLORO ALPHA SULFOSTEARATE",N/A,N/A,0,Unknown
+14,440.5,DISODIUM 9.10 DIHYDROXY ALPHA SULFOSTEARATE,disodium;4-(2-dodecoxyethoxy)-3-sulfonatobutanoate,CCCCCCCCCCCCOCCOCC(CC(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+],440.5,Found by mass lookup
+15,260.3,SODIUM DECYL 2 SULFATE,sodium;decyl sulfate,CCCCCCCCCCOS(=O)(=O)[O-].[Na+],260.33,LLM initial name and weight
+16,316.4,SODIUM TETRADECYL 2 SULFATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+17,316.4,SODIUM TETRADECYL 4 SULFATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+18,292.4,OCTYL BETA D GLUCOSIDE,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-octoxyoxane-3,4,5-triol",CCCCCCCCOC1C(C(C(C(O1)CO)O)O)O,292.37,LLM initial name and weight
+19,320.4,DECYL BETA D GLUCOSIDE,"(2R,3R,4S,5S,6R)-2-decoxy-6-(hydroxymethyl)oxane-3,4,5-triol",CCCCCCCCCCOC1C(C(C(C(O1)CO)O)O)O,320.42,LLM initial name and weight
+20,348.5,DODECYL BETA D GLUCOSIDE,"(3R,4S,5S,6R)-2-dodecoxy-6-(hydroxymethyl)oxane-3,4,5-triol",CCCCCCCCCCCCOC1C(C(C(C(O1)CO)O)O)O,348.5,LLM initial name and weight
+21,229.4,DIMETHYL DODECYL AMINE OXIDE,"N,N-dimethyldodecan-1-amine oxide",CCCCCCCCCCCC[N+](C)(C)[O-],229.4,LLM initial name and weight
+22,265.9,DIMETHYL DODECYL AMINE OXIDE HYDROCHLORIDE,2-[bis(4-methylpentyl)amino]ethanol;hydrochloride,CC(C)CCCN(CCCC(C)C)CCO.Cl,265.86,LLM initial name and weight
+23,373.2,SILVER DODECYL 1 SULFATE,silver;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Ag+],373.26,LLM initial name and weight
+24,570.8,CALCIUM DODECYL 1 SULFATE,calcium;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCOS(=O)(=O)[O-].[Ca+2],570.9,Found by mass lookup
+25,288.3,SODIUM ETHYL ALPHA SULFOPELARGONATE,sodium;2-nonanoyloxyethanesulfonate,CCCCCCCCC(=O)OCCS(=O)(=O)[O-].[Na+],288.34,LLM initial name and weight
+26,330.4,SODIUM AMYL ALPHA SULFOPELARGONATE,sodium;2-dodecoxy-2-oxoethanesulfonate,CCCCCCCCCCCCOC(=O)CS(=O)(=O)[O-].[Na+],330.42,LLM initial name and weight
+27,344.4,SODIUM HEXYL ALPHA SULFOPELARGONATE,sodium;2-dodecanoyloxypropane-1-sulfonate,CCCCCCCCCCCC(=O)OC(C)CS(=O)(=O)[O-].[Na+],344.4,LLM initial name and weight
+28,358.4,SODIUM HEPTYL ALPHA SULFOPELARGONATE,sodium;2-tetradecanoyloxyethanesulfonate,CCCCCCCCCCCCCC(=O)OCCS(=O)(=O)[O-].[Na+],358.5,LLM initial name and weight
+29,386.5,SODIUM NONYL ALPHA SULFOPELARGONATE,sodium;18-hydroxy-18-oxooctadecane-1-sulfonate,C(CCCCCCCCC(=O)O)CCCCCCCCS(=O)(=O)[O-].[Na+],386.5,LLM initial name and weight
+30,400.5,SODIUM DECYL ALPHA SULFOPELARGONATE,sodium;1-methoxy-1-oxooctadecane-2-sulfonate,CCCCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)[O-].[Na+],400.6,LLM initial name and weight
+31,372.4,SODIUM 2 OCTYL ALPHA SULFOPELARGONATE,sodium;1-methoxy-1-oxohexadecane-2-sulfonate,CCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+32,372.4,SODIUM 2 ETHYLHEXYL ALPHA SULFOPELARGONATE,sodium;1-methoxy-1-oxohexadecane-2-sulfonate,CCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+33,400.5,SODIUM /0X0/ DECYL ALPHA SULFOPELARGONATE,sodium;1-methoxy-1-oxooctadecane-2-sulfonate,CCCCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)[O-].[Na+],400.6,LLM retried name and weight
+34,428.6,SODIUM DODECYL ALPHA SULFOPELARGONATE,sodium;1-oxo-1-propoxyoctadecane-9-sulfonate,CCCCCCCCCC(CCCCCCCC(=O)OCCC)S(=O)(=O)[O-].[Na+],428.6,LLM initial name and weight
+35,574.3,SODIUM H/CF2CF2/3CH2 ALPHA SULFOPELARGONATE,N/A,N/A,0,Unknown
+37,193.7,DECYLAMMONIUM CHLORIDE,decan-1-amine;hydrochloride,CCCCCCCCCCN.Cl,193.76,LLM initial name and weight
+38,221.8,DODECYL AMMONIUM CHLORIDE,dodecan-1-amine;hydrochloride,CCCCCCCCCCCCN.Cl,221.81,LLM initial name and weight
+36,372.4,SODIUM METHYL ALPHA SULFOPALMITATE,sodium;1-methoxy-1-oxohexadecane-2-sulfonate,CCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+39,249.9,TETRADECYL AMMONIUM CHLORIDE,"N,N-dimethyldodecan-1-amine;hydrochloride",CCCCCCCCCCCCN(C)C.Cl,249.86,LLM initial name and weight
+40,288.4,POTASSIUM DODECYL 1 SULFONATE,potassium;dodecane-1-sulfonate,CCCCCCCCCCCCS(=O)(=O)[O-].[K+],288.49,LLM initial name and weight
+41,263.9,DODECYL TRIMETHYL AMMONIUM CHLORIDE,dodecyl(trimethyl)azanium;chloride,CCCCCCCCCCCC[N+](C)(C)C.[Cl-],263.89,LLM initial name and weight
+42,292,TETRADECYL TRIMETHYL AMMONIUM CHLORIDE,trimethyl(tetradecyl)azanium;chloride,CCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],291.9,LLM initial name and weight
+43,88.1,BUTYRIC ACID,2-methylpropanoic acid,CC(C)C(=O)O,88.11,LLM initial name and weight
+44,182.3,POTASSIUM OCTANOATE,potassium;octanoate,CCCCCCCC(=O)[O-].[K+],182.3,LLM initial name and weight
+45,334.4,SODIUM P 1 METHYL DECYL BENZENE SULFONATE,sodium;3-undecylbenzenesulfonate,CCCCCCCCCCCC1=CC(=CC=C1)S(=O)(=O)[O-].[Na+],334.5,Found by mass lookup
+46,362.4,SODIUM P 1 METHYL DODECYL BENZENE SULFONATE,sodium;4-tridecylbenzenesulfonate,CCCCCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],362.5,LLM retried name and weight
+47,390.5,SODIUM P 1 METHYL TETRADECYL BENZENE SULFONATE,sodium;2-pentadecylbenzenesulfonate,CCCCCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],390.6,LLM initial name and weight
+48,418.6,SODIUM P 1 METHYL HEXADECYL BENZENE SULFONATE,sodium;2-heptadecylbenzenesulfonate,CCCCCCCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],418.6,LLM initial name and weight
+49,292.3,SODIUM P OCTYL BENZENE SULFONATE,sodium;4-octylbenzenesulfonate,CCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],292.37,LLM initial name and weight
+50,320.4,SODIUM P DECYL BENZENE SULFONATE,sodium;4-decylbenzenesulfonate,CCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],320.4,LLM initial name and weight
+51,348.4,SODIUM P DODECYL BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+52,388.5,SODIUM HEXADECYL MONO OXYETHYLENE SULFATE,sodium;12-hydroxyoctadecyl sulfate,CCCCCCC(CCCCCCCCCCCOS(=O)(=O)[O-])O.[Na+],388.5,LLM initial name and weight
+53,432.6,SODIUM HEXADECYL DI OXYETHYLENE SULFATE,sodium;2-(2-hexadecoxyethoxy)ethyl sulfate,CCCCCCCCCCCCCCCCOCCOCCOS(=O)(=O)[O-].[Na+],432.6,LLM initial name and weight
+54,476.6,SODIUM HEXADECYL TRI OXYETHYLENE SULFATE,sodium;2-[2-(2-hexadecoxyethoxy)ethoxy]ethyl sulfate,CCCCCCCCCCCCCCCCOCCOCCOCCOS(=O)(=O)[O-].[Na+],476.6,LLM initial name and weight
+55,520.7,SODIUM HEXADECYL TETRA OXYETHYLENE SULFATE,sodium;2-[2-[2-(2-hexadecoxyethoxy)ethoxy]ethoxy]ethyl sulfate,CCCCCCCCCCCCCCCCOCCOCCOCCOCCOS(=O)(=O)[O-].[Na+],520.7,LLM initial name and weight
+56,416.6,SODIUM OCTADECYL MONO OXYETHYLENE SULFATE,sodium;2-octadecoxyethyl sulfate,CCCCCCCCCCCCCCCCCCOCCOS(=O)(=O)[O-].[Na+],416.6,LLM initial name and weight
+57,460.6,SODIUM OCTADECYL DI OXYETHYLENE SULFATE,sodium;2-(2-octadecoxyethoxy)ethyl sulfate,CCCCCCCCCCCCCCCCCCOCCOCCOS(=O)(=O)[O-].[Na+],460.6,LLM initial name and weight
+58,504.7,SODIUM OCTADECYL TRI OXYETHYLENE SULFATE,sodium;2-[2-(2-octadecan-9-yloxyethoxy)ethoxy]ethyl sulfate,CCCCCCCCCC(CCCCCCCC)OCCOCCOCCOS(=O)(=O)[O-].[Na+],504.7,LLM initial name and weight
+59,548.7,SODIUM OCTADECYL TETRA OXYETHYLENE SULFATE,sodium;2-[2-[2-(2-octadecoxyethoxy)ethoxy]ethoxy]ethyl sulfate,CCCCCCCCCCCCCCCCCCOCCOCCOCCOCCOS(=O)(=O)[O-].[Na+],548.8,LLM initial name and weight
+60,471.7,TRIETHANOL AMMONIUM HEXADECYL SULFATE,2-[bis(2-hydroxyethyl)amino]ethanol;hexadecyl hydrogen sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)O.C(CO)N(CCO)CCO,471.7,LLM initial name and weight
+61,370.5,SODIUM OLEYL/CIS 9 OCTADECENOYL/ SULFATE,sodium;[(Z)-octadec-9-enyl] sulfate,CCCCCCCCC=CCCCCCCCCOS(=O)(=O)[O-].[Na+],370.5,Found by mass lookup
+62,370.5,SODIUM ELAIDYL/TRANS 9 OCTADECENOYL/SULFATE,sodium;[(Z)-octadec-9-enyl] sulfate,CCCCCCCCC=CCCCCCCCCOS(=O)(=O)[O-].[Na+],370.5,LLM retried name and weight
+63,441.4,SODIUM 9 10 DICHLORO OCTADECYL SULFATE,"sodium;9,10-dichlorooctadecyl sulfate",CCCCCCCCC(C(CCCCCCCCOS(=O)(=O)[O-])Cl)Cl.[Na+],441.4,LLM initial name and weight
+64,372.5,SODIUM OCTADECYL 1 SULFATE,sodium;octadecyl sulfate,CCCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+65,499.7,TRIETHANOLAMMONTUM OCTADECYL 1 SULFATE,2-[bis(2-hydroxyethyl)amino]ethanol;octadecyl hydrogen sulfate,CCCCCCCCCCCCCCCCCCOS(=O)(=O)O.C(CO)N(CCO)CCO,499.7,LLM initial name and weight
+66,232.2,SODIUM OCTYL 2 SULFATE,sodium;2-ethylhexyl sulfate,CCCCC(CC)COS(=O)(=O)[O-].[Na+],232.28,LLM initial name and weight
+67,288.3,SODIUM DODECYL 2 SULFATE,sodium;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],288.38,LLM initial name and weight
+68,302.3,SODIUM TRIDECYL 2 SULFATE,sodium;tridecyl sulfate,CCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],302.41,LLM initial name and weight
+69,330.4,SODIUM PENTADECYL 2 SULFATE,sodium;pentadecyl sulfate,CCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],330.5,LLM initial name and weight
+70,358.5,SODIUM HEPTADECYL 2 SULFATE,sodium;heptadecyl sulfate,CCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],358.5,LLM initial name and weight
+71,372.5,SODTUM OCTADECYL 2 SULFATE,sodium;octadecyl sulfate,CCCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+72,274.3,SODIUM UNDECYL 3 SULFATE,sodium;undecyl sulfate,CCCCCCCCCCCOS(=O)(=O)[O-].[Na+],274.35,LLM initial name and weight
+73,316.4,SODIUM TETRADECYL 3 SULFATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+74,330.4,SODIUM PENTADECYL 3 SULFATE,sodium;pentadecyl sulfate,CCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],330.5,LLM initial name and weight
+75,344.4,SODIUM HEXADECYL 4 SULFATE,sodium;hexadecyl sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],344.5,LLM initial name and weight
+76,372.5,SODIUM OCTADECYL 4 SULFATE,sodium;octadecyl sulfate,CCCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+77,316.4,SODIUM TETRADECYL 5 SULFATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+78,330.4,SODIUM PENTADECYL 5 SULFATE,sodium;pentadecyl sulfate,CCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],330.5,LLM initial name and weight
+79,386.5,SODIUM NONADECYL 5 SULFATE,sodium;3-hexadecoxypropane-1-sulfonate,CCCCCCCCCCCCCCCCOCCCS(=O)(=O)[O-].[Na+],386.6,LLM initial name and weight
+80,274.3,SODIUM UNDECYL 6 SULFATE,sodium;undecyl sulfate,CCCCCCCCCCCOS(=O)(=O)[O-].[Na+],274.35,LLM initial name and weight
+81,344.4,SODIUM HEXADECYL 6 SULFATE,sodium;hexadecyl sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],344.5,LLM initial name and weight
+82,372.5,SODIUM OCTADECYL 6 SULFATE,sodium;octadecyl sulfate,CCCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+83,302.3,SODIUM TRIDECYL 7 SULFATE,sodium;tridecyl sulfate,CCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],302.41,LLM initial name and weight
+84,316.4,SODIUM TETRADECYL 7 SULFATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+85,330.4,SODIUM PENTADECYL 8 SULFATE,sodium;pentadecyl sulfate,CCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],330.5,LLM initial name and weight
+86,344.4,SODIUM HEXADECYL 8 SULFATE,sodium;hexadecyl sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],344.5,LLM initial name and weight
+87,358.5,SODIUM HEPTADECYL 9 SULFATE,sodium;heptadecyl sulfate,CCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],358.5,LLM initial name and weight
+88,386.5,SODIUM 1 NONYL DECYL SULFATE,sodium;3-hexadecoxypropane-1-sulfonate,CCCCCCCCCCCCCCCCOCCCS(=O)(=O)[O-].[Na+],386.6,LLM initial name and weight
+89,526.8,SODIUM 1 TETRADECYL PENTADECYL SULFATE,sodium;nonacosyl sulfate,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],526.8,LLM initial name and weight
+90,210.3,POTASSIUM DECANOATE,potassium;decanoate,CCCCCCCCCC(=O)[O-].[K+],210.35,LLM initial name and weight
+91,238.4,POTASSIUM DODECANOATE,potassium;dodecanoate,CCCCCCCCCCCC(=O)[O-].[K+],238.41,LLM initial name and weight
+92,266.5,POTASSIUM TETRADECANOATE,potassium;tetradecanoate,CCCCCCCCCCCCCC(=O)[O-].[K+],266.46,LLM initial name and weight
+93,252.2,OCTYL TRIMETHYL AMMONIUM BROMIDE,trimethyl(octyl)azanium;bromide,CCCCCCCC[N+](C)(C)C.[Br-],252.23,LLM initial name and weight
+94,266.3,NONYL TRIMETHYL AMMONIUM BROMIDE,trimethyl(nonyl)azanium;bromide,CCCCCCCCC[N+](C)(C)C.[Br-],266.26,LLM initial name and weight
+95,280.3,DECYL TRIMETHYL AMMONIUM BROMIDE,decyl(trimethyl)azanium;bromide,CCCCCCCCCC[N+](C)(C)C.[Br-],280.29,LLM initial name and weight
+96,294.3,UNDECYL TRIMETHYL AMMONIUM BROMIDE,"N,N-dimethyldodecan-1-amine;hydrobromide",CCCCCCCCCCCCN(C)C.Br,294.31,LLM initial name and weight
+97,308.4,DODECYL TRIMETHYL AMMONIUM BROMIDE,dodecyl(trimethyl)azanium;bromide,CCCCCCCCCCCC[N+](C)(C)C.[Br-],308.34,LLM initial name and weight
+98,336.4,TETRADECYL TRIMETHYL AMMONIUM BROMIDE,trimethyl(tetradecyl)azanium;bromide,CCCCCCCCCCCCCC[N+](C)(C)C.[Br-],336.4,LLM initial name and weight
+99,364.5,HEXADECYL TRIMETHYLAMMONIUM BROMIDE,hexadecyl(trimethyl)azanium;bromide,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],364.4,LLM initial name and weight
+100,272.2,OCTYL PYRIDINIUM BROMIDE,benzyl(triethyl)azanium;bromide,CC[N+](CC)(CC)CC1=CC=CC=C1.[Br-],272.22,LLM initial name and weight
+101,314.3,UNDECYL PYRIDINIUM BROMIDE,benzyl(tripropyl)azanium;bromide,CCC[N+](CCC)(CCC)CC1=CC=CC=C1.[Br-],314.3,LLM initial name and weight
+102,356.4,TETRADECYL PYRIDINIUM BROMIDE,1-tetradecylpyridin-1-ium;bromide,CCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Br-],356.4,LLM initial name and weight
+103,234.3,HEXYL /OXYETHYLENE/ 3 ALCOHOL HOMOGENEOUS HEAD GROUP,1-[1-(1-propoxypropan-2-yloxy)propan-2-yloxy]propan-2-ol,CCCOCC(C)OCC(C)OCC(C)O,234.33,LLM initial name and weight
+104,262.4,OCTYL /OXYETHYLENE/ 3 ALCOHOL HOMOGENEOUS HEAD GROUP,1-[2-[2-(2-butoxyethoxy)ethoxy]ethoxy]butane,CCCCOCCOCCOCCOCCCC,262.39,LLM initial name and weight
+105,394.6,OCTYL /OXYETHYLENE/ 6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-octoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCOCCOCCOCCOCCOCCOCCO,394.5,LLM initial name and weight
+106,526.7,OCTYL /OXYETHYLENE/ 9 ALCOHOL HOMOGENEOUS HEAD GROUP,"2,2-bis(hydroxymethyl)propane-1,3-diol;heptanoic acid;nonanoic acid;pentanoic acid",CCCCCCCCC(=O)O.CCCCCCC(=O)O.CCCCC(=O)O.C(C(CO)(CO)CO)O,526.7,LLM initial name and weight
+107,290.4,DECYL /OXYETHYLENE/ 3 ALCOHOL HOMOGENEOUS HEAD GROUP,"2,5-bis(tert-butylperoxy)-2,5-dimethylhexane",CC(C)(C)OOC(C)(C)CCC(C)(C)OOC(C)(C)C,290.44,LLM initial name and weight
+108,422.6,DECYL /OXYETHYLENE/ 6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-decoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCOCCOCCOCCOCCOCCOCCO,422.6,LLM initial name and weight
+109,554.8,DECYL /OXYETHYLENE/ 9 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-[2-[2-[2-(2-decoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,554.8,LLM initial name and weight
+110,450.7,DODECYL /OXYETHYLENE/ 6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCO,450.6,LLM initial name and weight
+111,272.3,LITHIUM DODECYL 1 SULFATE,lithium;dodecyl sulfate,[Li+].CCCCCCCCCCCCOS(=O)(=O)[O-],272.4,LLM initial name and weight
+115,494.7,DODECYL /OXYETHYLENE/7 ALCOHOL REDUCED POLYDISPERSION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCO,494.7,LLM initial name and weight
+116,1508.1,DODECYL /OXYETHYLENE/30 ALCOHOL REDUCED REDUCED POLYDISPERSION OF HEAD GROUPS,N/A,N/A,0,Unknown
+117,1564.2,HEXADECYL /OXYETHYLENE/30 ALCOHOL REDUCED POLYDISPERSION OF HEAD GROUPS,N/A,N/A,0,Unknown
+119,243.4,DECYL N BETAINE,N-(2-hydroxyethyl)dodecanamide,CCCCCCCCCCCC(=O)NCCO,243.39,Found by mass lookup
+120,257.4,UNDECYL N BETAINE,3-(dodecylamino)propanoic acid,CCCCCCCCCCCCNCCC(=O)O,257.41,Found by mass lookup
+121,271.4,DODECYL N BETAINE,2-[dodecyl(dimethyl)azaniumyl]acetate,CCCCCCCCCCCC[N+](C)(C)CC(=O)[O-],271.44,Found by mass lookup
+122,299.5,TETRADECYL N BETAINE,N-(2-hydroxyethyl)hexadecanamide,CCCCCCCCCCCCCCCC(=O)NCCO,299.5,Found by mass lookup
+123,327.6,HEXADECYL N BETAINE,N-(2-hydroxyethyl)octadecanamide,CCCCCCCCCCCCCCCCCC(=O)NCCO,327.5,Found by mass lookup
+124,307.9,DODECYL N BETAINE HYDROCHLORIDE,1-(5-methyl-2-propan-2-ylcyclohexyl)oxy-3-(propan-2-ylamino)propan-2-ol;hydrochloride,CC1CCC(C(C1)OCC(CNC(C)C)O)C(C)C.Cl,307.9,Found by mass lookup
+125,336,TETRADECYL N BETAINE HYDROCHLORIDE,2-(diethylamino)ethyl dodecanoate;hydrochloride,CCCCCCCCCCCC(=O)OCCN(CC)CC.Cl,336,Found by mass lookup
+126,355.3,DODECYL TRIMETHYLAMMONIUM IODIDE,dodecyl(trimethyl)azanium;iodide,CCCCCCCCCCCC[N+](C)(C)C.[I-],355.34,LLM initial name and weight
+127,403.3,DODECYL TRIMETHYL AMMONIUM IODATE,dodecyl(trimethyl)azanium;iodate,CCCCCCCCCCCC[N+](C)(C)C.[O-]I(=O)=O,403.34,LLM initial name and weight
+128,273.5,DODECYL TRIMETHYL AMMONIUM FORMATE,2-[dodecyl(2-hydroxyethyl)amino]ethanol,CCCCCCCCCCCCN(CCO)CCO,273.45,LLM initial name and weight
+129,356.4,DODECYL TRIMETHYL AMMONIUM BROMATE,hexyl-[2-[2-(2-methoxyethoxy)ethoxy]ethyl]-dimethylazanium;bromide,CCCCCC[N+](C)(C)CCOCCOCCOC.[Br-],356.34,LLM initial name and weight
+130,247.4,DODECYL TRIMETHYL AMMONIUM FLUORIDE,dodecyl(trimethyl)azanium;fluoride,CCCCCCCCCCCC[N+](C)(C)C.[F-],247.44,LLM initial name and weight
+131,290.5,DODECYL TRIMETHYLAMMONIUM NITRATE,2-[2-(dimethylamino)ethyl-methylamino]ethanol;2-ethylhexanoic acid,CCCCC(CC)C(=O)O.CN(C)CCN(C)CCO,290.44,LLM initial name and weight
+132,229,OCTYL C BETAINE,N/A,N/A,0,Unknown
+133,257.4,DECYL C BETAINE,3-(dodecylamino)propanoic acid,CCCCCCCCCCCCNCCC(=O)O,257.41,LLM initial name and weight
+134,285.5,DODECYL C BETAINE,3-(tetradecylamino)propanoic acid,CCCCCCCCCCCCCCNCCC(=O)O,285.5,LLM initial name and weight
+135,265.8,OCTYL C BETAINE HYDROCHLORIDE,4-carboxybutyl-ethyl-di(propan-2-yl)azanium;chloride,CC[N+](CCCCC(=O)O)(C(C)C)C(C)C.[Cl-],265.82,LLM initial name and weight
+136,237.3,SODIUM ALPHA DIMETHYL AMINO CAPRATE,sodium;2-aminododecanoate,CCCCCCCCCCC(C(=O)[O-])N.[Na+],237.31,LLM initial name and weight
+137,251.8,ALPHA DIMETHYLAMINO CAPRIC ACID HYDROCHLORIDE,octyl (2S)-2-aminobutanoate;hydrochloride,CCCCCCCCOC(=O)C(CC)N.Cl,251.79,LLM initial name and weight
+138,306.3,SODIUM NONYL BENZENE SULFONATE BRANCHED HYDROCARBON CHAIN,sodium;2-nonylbenzenesulfonate,CCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],306.4,LLM initial name and weight
+139,348.4,SODIUM DODECYL BENZENE SULFONATE BRANCHED HYDROCARBON CHAIN,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+140,320.4,SODIUM DECYL BENZENE SULFONATE BRANCHED HYDROCARBON CHAIN,sodium;4-decylbenzenesulfonate,CCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],320.4,LLM initial name and weight
+141,362.4,SODIUM TRIDECYL BENZENE SULFONATE BRANCHED HYDROCARBON CHAIN,sodium;4-tridecylbenzenesulfonate,CCCCCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],362.5,LLM initial name and weight
+142,390.5,SODIUM PENTADECYL BENZENE SULFONATE BRANCHED HYDROCARBON CHAIN,sodium;2-pentadecylbenzenesulfonate,CCCCCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],390.6,LLM initial name and weight
+143,378.6,"DECYL /OXYETHYLENE/ 5.0 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-(2-decoxyethoxy)ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCOCCOCCOCCOCCOCCO,378.5,LLM initial name and weight
+144,598.9,"DECYL /OXYETHYLENE/ 10.0 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION","dodecanoic acid;2-ethylhexanoic acid;2-[[3-hydroxy-2,2-bis(hydroxymethyl)propoxy]methyl]-2-(hydroxymethyl)propane-1,3-diol",CCCCCCCCCCCC(=O)O.CCCCC(CC)C(=O)O.C(C(CO)(CO)COCC(CO)(CO)CO)O,598.8,LLM initial name and weight
+145,814.8,"DECYL /OXYETHYLENE/ 14.9 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+146,1039.5,"DECYL /OXYETHYLENE/ 20.0 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+147,1453.6,"DECYL /OXYETHYLENE/ 29.4 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+148,429.5,"TRIDECYL /OXYETHYLENE/ 5.2 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+149,645.4,"TRIDECYL /OXYETHYLENE/ 10.1 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+150,870.1,"TRIDECYL /OXYETHYLENE/ 15.2 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+151,1081.6,"TRIDECYL /OXYETHYLENE/ 20.0 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+152,1548.6,"TRIDECYL /OXYETHYLENE/ 30.6 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+153,440.6,"NONYL BENZENE /OXYETHYLENE/ 5.0 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION","2,3-diacetyloxypropyl (Z)-octadec-9-enoate",CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)C)OC(=O)C,440.6,LLM initial name and weight
+154,652.1,NONYL BENZENE /OXYETHYLENE/ 9.8 ALCOHOL BRANCHED CHAIN. NATURAL 0E DISTRIBUTION,N/A,N/A,0,Unknown
+155,898.9,"NONYL BENZENE /OXYETHYLENE/ 15.4 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+156,1101.5,"NONYL BENZENE /OXYETHYLENE/ 20.0 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCC1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,1101.4,LLM initial name and weight
+157,1551,"NONYL BENZENE /OXYETHYLENE/ 30.2 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+158,482.7,"DODECYL BENZENE /OXYETHYLENE/ 5.0 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",octadecyl (2Z)-2-[5-(acetyloxymethyl)-5-(hydroxymethyl)oxolan-3-ylidene]acetate,CCCCCCCCCCCCCCCCCCOC(=O)C=C1CC(OC1)(CO)COC(=O)C,482.7,LLM initial name and weight
+159,711.8,"DODECYL BENZENE /OXYETHYLENE/ 10.2 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+160,927.7,"DODECYL BENZENE /OXYETHYLENE/ 15.1 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+161,1148,DODECYL BENZENE /OXYETHYLENE/ 20.1 ALCOHOL BRANCHED CHAIN. NATURAL 0E DISTRIBUTION,N/A,N/A,0,Unknown
+162,1610.7,"DODECYL BENZENE /OXYETHYLENE/ 30.6 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+163,538.8,DODECYL /OXYETHYLENE/ 8 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCO,538.8,LLM initial name and weight
+164,715,DODECYL /OXYETHYLENE/ 12 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,715,LLM initial name and weight
+165,979.4,DODECYL /OXYETHYLENE/ 18 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,979.3,LLM initial name and weight
+166,1199.7,DODECYL /OXYETHYLENE/ 23 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+167,660.9,"NONYL BENZENE /OXYETHYLENE/ 10 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCC1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,660.9,Found by mass lookup
+168,881.2,"NONYL BENZENE /OXYETHYLENE/ 15 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-nonylphenoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCC1=CC=CC=C1OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,881.1,Found by mass lookup
+169,1542.1,"NONYL BENZENE /OXYETHYLENE/ 30 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+170,1420,DODECYL /OXYETHYLENE/ 28 ALCOHOL REDUCED DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+171,348.4,SODIUM 2-N-DODECYL BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+172,292.3,SODIUM 2-N-OCTYL BENZENE SULFONATE,sodium;4-octylbenzenesulfonate,CCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],292.37,LLM initial name and weight
+173,320.4,SODIUM 2-N-DECYL BENZENE SULFONATE,sodium;4-decylbenzenesulfonate,CCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],320.4,LLM initial name and weight
+174,376.5,SODIUM 2-N-TETRADECYL BENZENE SULFONATE,sodium;4-tetradecylbenzenesulfonate,CCCCCCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],376.5,LLM initial name and weight
+175,272.3,SODIUM DODECANE 2-SULFONATE,sodium;dodecane-1-sulfonate,CCCCCCCCCCCCS(=O)(=O)[O-].[Na+],272.38,LLM initial name and weight
+176,300.4,SODIUM TETRADECANE 2-SULFONATE,sodium;tetradecane-1-sulfonate,CCCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],300.44,LLM initial name and weight
+177,328.4,SODIUM HEXADECANE 2-SULFONATE,sodium;hexadecane-1-sulfonate,CCCCCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],328.5,LLM initial name and weight
+178,356.5,SODIUM OCTADECANE 2-SULFONATE,sodium;octadecane-1-sulfonate,CCCCCCCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],356.5,LLM initial name and weight
+179,272.3,SODIUM DODECANE 1-SULFONATE,sodium;dodecane-1-sulfonate,CCCCCCCCCCCCS(=O)(=O)[O-].[Na+],272.38,LLM initial name and weight
+181,216.2,SODIUM OCTYL 1-SULFONATE,sodium;octane-1-sulfonate,CCCCCCCCS(=O)(=O)[O-].[Na+],216.28,LLM initial name and weight
+182,244.3,SODIUM DECYL 1-SULFONATE,sodium;decane-1-sulfonate,CCCCCCCCCCS(=O)(=O)[O-].[Na+],244.33,LLM initial name and weight
+183,300.4,SODIUM TETRADECYL 1-SULFONATE,sodium;tetradecane-1-sulfonate,CCCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],300.44,LLM initial name and weight
+184,328.4,SODIUM HEXADECYL 1-SULFONATE,sodium;hexadecane-1-sulfonate,CCCCCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],328.5,LLM initial name and weight
+185,294.5,POTASSIUM HEXADECANOATE,potassium;hexadecanoate,CCCCCCCCCCCCCCCC(=O)[O-].[K+],294.51,LLM initial name and weight
+186,277.9,HEXADECYL AMMONIUM CHLORIDE,tetrabutylazanium;chloride,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],277.9,LLM initial name and weight
+187,306,OCTADECYL AMMONIUM CHLORIDE,dimethyl(dioctyl)azanium;chloride,CCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-],306,LLM initial name and weight
+188,154.2,POTASSIUM HEXANOATE,potassium;hexanoate,CCCCCC(=O)[O-].[K+],154.25,LLM initial name and weight
+189,308.4,ALPHA SULFOMYRISTIC ACID,"(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-octylsulfanyloxane-3,4,5-triol",CCCCCCCCSC1C(C(C(C(O1)CO)O)O)O,308.44,LLM initial name and weight
+190,336.4,ALPHA SULFOPALMITIC ACID,2-sulfohexadecanoic acid,CCCCCCCCCCCCCCC(C(=O)O)S(=O)(=O)O,336.5,LLM initial name and weight
+191,364.5,ALPHA SULFOSTEARIC ACID,12-hydroxy-8-methylsulfonylheptadecanoic acid,CCCCCC(CCCC(CCCCCCC(=O)O)S(=O)(=O)C)O,364.5,LLM initial name and weight
+192,386.5,SODIUM ETHYL ALPHA SULFOPALMITATE,sodium;18-hydroxy-18-oxooctadecane-1-sulfonate,C(CCCCCCCCC(=O)O)CCCCCCCCS(=O)(=O)[O-].[Na+],386.5,LLM initial name and weight
+193,400.5,SODIUM PROPYL ALPHA SULFOPALMITATE,sodium;1-methoxy-1-oxooctadecane-2-sulfonate,CCCCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)[O-].[Na+],400.6,LLM initial name and weight
+194,400.5,SODIUM METHYL ALPHA SULFOSTEARATE,sodium;1-methoxy-1-oxooctadecane-2-sulfonate,CCCCCCCCCCCCCCCCC(C(=O)OC)S(=O)(=O)[O-].[Na+],400.6,LLM initial name and weight
+195,414.5,SODIUM ETHYL ALPHA SULFOSTEARATE,sodium;2-octadecoxy-2-oxoethanesulfonate,CCCCCCCCCCCCCCCCCCOC(=O)CS(=O)(=O)[O-].[Na+],414.6,LLM initial name and weight
+196,428.6,SODIUM PROPYL ALPHA SULFOSTEARATE,sodium;1-oxo-1-propoxyoctadecane-9-sulfonate,CCCCCCCCCC(CCCCCCCC(=O)OCCC)S(=O)(=O)[O-].[Na+],428.6,LLM initial name and weight
+197,488.5,DISODIUM 2 SULFOETHYL ALPHA SULFOPALMITATE,N/A,N/A,0,Unknown
+198,516.5,DISODIUM 2 SULFOETHYL ALPHA SULFOSTEARATE,N/A,N/A,0,Unknown
+199,428.6,SODIUM ISOPROPYL ALPHA SULFOSTEARATE,sodium;1-oxo-1-propoxyoctadecane-9-sulfonate,CCCCCCCCCC(CCCCCCCC(=O)OCCC)S(=O)(=O)[O-].[Na+],428.6,LLM initial name and weight
+200,250.3,DODECYL SULFONIC ACID,dodecane-1-sulfonic acid,CCCCCCCCCCCCS(=O)(=O)O,250.4,LLM initial name and weight
+201,524.8,DECYL /OXYETHYLENE/8 OXYMETHYL REDUCED POLYDISPERSION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-(2-undecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCO,524.7,Found by mass lookup
+202,657,DECYL /OXYETHYLENE/11 OXYMETHYL REDUCED POLYDISPERSION OF HEAD GROUPS,"ethane;2,3,4-triethoxy-6-(ethoxymethyl)-5-[3,4,5-triethoxy-6-(ethoxymethyl)oxan-2-yl]oxyoxane",CC.CC.CC.CCOCC1C(C(C(C(O1)OC2C(OC(C(C2OCC)OCC)OCC)COCC)OCC)OCC)OCC,656.9,Found by mass lookup
+203,235.8,DECYL TRIMETHYL AMMONIUM CHLORIDE,tributyl(methyl)azanium;chloride,CCCC[N+](C)(CCCC)CCCC.[Cl-],235.84,LLM initial name and weight
+204,701,DECYL /OXYETHYLENE/12 OXYMETHYL REDUCED POLYDISPERSION OF HEAD GROUPS,"2-(2-butoxyethoxy)ethanol;3-(2-butoxyethoxymethyl)-2,4-bis(2-hexoxyethoxy)pentane-1,3,5-triol",CCCCCCOCCOC(CO)C(COCCOCCCC)(C(CO)OCCOCCCCCC)O.CCCCOCCOCCO,701,Found by mass lookup
+205,729.1,DODECYL /OXYETHYLENE/12 OXYMETHYL REDUCED POLYDISPERSION OF HEAD GROUPS,N/A,N/A,0,Unknown
+206,624,TRITON X-100 (P-T-OCTYL BENZENE/OXYETHYLENE/9 NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+207,250.4,P-T-OCTYL BENZENE /OXYETHYLENE/ ALCOHOL HOMOGENEOUS HEAD GROUP,"2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCO,250.38,LLM initial name and weight
+208,2944,P-T-OCTYL BENZENE /OXYETHYLENE/2 ALCOHOL HOMOGENEOUS HEAD GROUP,N/A,N/A,0,Unknown
+209,338.5,OCTYL BENZENE /OXYETHYLENE/3 ALCOHOL HOMOGENEOUS HEAD GROUP,"(1S,2S,5R,6R,7R,10S,12R,13R)-6,13-bis(hydroxymethyl)-2,6-dimethyltetracyclo[10.3.1.01,10.02,7]hexadecane-5,13-diol",CC12CCC(C(C1CCC3C24CCC(C(C3)C4)(CO)O)(C)CO)O,338.5,LLM initial name and weight
+210,382.5,P-T-OCTYL BENZENE /OXYETHYLENE/4 ALCOHOL HOMOGENEOUS HEAD GROUP,"methyl 7-[(1R,2R,3R)-3-hydroxy-2-[(E)-4-hydroxy-4-methyloct-1-enyl]-5-oxocyclopentyl]heptanoate",CCCCC(C)(CC=CC1C(CC(=O)C1CCCCCCC(=O)OC)O)O,382.5,LLM initial name and weight
+211,426.6,"P-T-OCTYL BENZENE /OXYETHYLENE/5 ALCOHOL HOMOGENEOUS, HEAD GROUP","2-[2-[2-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCCOCCOCCOCCO,426.6,LLM initial name and weight
+212,470.7,P-T-OCTYL BENZENE /OXYETHYLENE/6 ALCOHOL HOMOGENEOUS HEAD GROUP,"4-[2-hydroxy-6-[5-(1,4,5-trihydroxyundecyl)oxolan-2-yl]hexyl]-2-methyl-2H-furan-5-one",CCCCCCC(C(CCC(C1CCC(O1)CCCCC(CC2=CC(OC2=O)C)O)O)O)O,470.6,LLM initial name and weight
+213,514.7,P-T-OCTYL BENZENE /OXYETHYLENE/7 ALCOHOL HOMOGENEOUS HEAD GROUP,"trihexyl 2-butanoyloxypropane-1,2,3-tricarboxylate",CCCCCCOC(=O)CC(CC(=O)OCCCCCC)(C(=O)OCCCCCC)OC(=O)CCC,514.7,LLM initial name and weight
+214,558.8,P-T-OCTYL BENZENE /OXYETHYLENE/8 ALCOHOL HOMOGENEOUS!HEA GROUP,2-[2-[2-[2-[2-[2-[2-[2-(4-octylphenoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCC1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCO,558.7,LLM initial name and weight
+215,602.8,P-T-OCTYL BENZENE /OXYETHYLENE/9 ALCOHOL HOMOGENEOUS HEAD GROUP,"2-[2-[2-[2-[2-[2-[2-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCO,602.8,LLM initial name and weight
+216,646.9,P-T-OCTYL BENZENE /OXYETHYLENE/10 ALCOHOL HOMOGENEOUS HEAD GROUP,"2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,646.8,LLM initial name and weight
+217,250.4,P-T-OCTYL BENZENE /OXYETHYLENE/1 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCO,250.38,LLM initial name and weight
+218,294.4,P-T-OCTYL BENZENE /OXYETHYLENE/2 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCCO,294.4,LLM initial name and weight
+219,338.5,P-T-OCTYL BENZENE /OXYETHYLENE/3 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"(1S,2S,5R,6R,7R,10S,12R,13R)-6,13-bis(hydroxymethyl)-2,6-dimethyltetracyclo[10.3.1.01,10.02,7]hexadecane-5,13-diol",CC12CCC(C(C1CCC3C24CCC(C(C3)C4)(CO)O)(C)CO)O,338.5,LLM initial name and weight
+220,382.5,P-T-OCTYL BENZENE /OXYETHYLENE/4 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"methyl 7-[(1R,2R,3R)-3-hydroxy-2-[(E)-4-hydroxy-4-methyloct-1-enyl]-5-oxocyclopentyl]heptanoate",CCCCC(C)(CC=CC1C(CC(=O)C1CCCCCCC(=O)OC)O)O,382.5,LLM initial name and weight
+221,426.6,P-T-OCTYL BENZENE /OXYETHYLENE/5 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"2-[2-[2-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCCOCCOCCOCCO,426.6,LLM initial name and weight
+222,470.7,P-T-OCTYL BENZENE /OXYETHYLENE/6 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"4-[2-hydroxy-6-[5-(1,4,5-trihydroxyundecyl)oxolan-2-yl]hexyl]-2-methyl-2H-furan-5-one",CCCCCCC(C(CCC(C1CCC(O1)CCCCC(CC2=CC(OC2=O)C)O)O)O)O,470.6,LLM initial name and weight
+223,514.7,P-T-OCTYL BENZENE /OXYETHYLENE/7 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"trihexyl 2-butanoyloxypropane-1,2,3-tricarboxylate",CCCCCCOC(=O)CC(CC(=O)OCCCCCC)(C(=O)OCCCCCC)OC(=O)CCC,514.7,LLM initial name and weight
+224,558.8,P-T-OCTYL BENZENE /OXYETHYLENE/8 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-(4-octylphenoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCC1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCO,558.7,LLM initial name and weight
+225,602.8,P-T-OCTYL BENZENE /OXYETHYLENE/9 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"2-[2-[2-[2-[2-[2-[2-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCO,602.8,LLM initial name and weight
+226,646.9,P-T-OCTYL BENZENE /OXYETHYLENE/10 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,646.8,LLM initial name and weight
+227,911.3,P-T-OCTYL BENZENE /OXYETHYLENE/16 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,911.2,LLM initial name and weight
+228,1968.7,P-T-OCTYL BENZENE /OXYETHYLENE/40 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+229,286.3,SODIUM TRIDECANE 1-SULFONATE,sodium;tridecane-1-sulfonate,CCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],286.41,LLM initial name and weight
+230,314.4,SODIUM PENTADECANE 1-SULFONATE,sodium;pentadecane-1-sulfonate,CCCCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],314.5,LLM initial name and weight
+231,342.5,SODIUM HEPTADECANE 1-SULFONATE,"sodium;3,9-diethyltridecane-6-sulfonate",CCCCC(CC)CCC(CCC(CC)CC)S(=O)(=O)[O-].[Na+],342.5,LLM initial name and weight
+232,334.5,OCTADECANE 1-SULFONIC ACID,2-hexadecylsulfonylethanol,CCCCCCCCCCCCCCCCS(=O)(=O)CCO,334.6,LLM initial name and weight
+233,352.3,DISODIUM ALPHA SULFO MYRISTATE,disodium;2-sulfonatotetradecanoate,CCCCCCCCCCCCC(C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+],352.4,Found by mass lookup
+234,380.4,DISODIUM ALPHA SULFO PALMITATE,disodium;2-sulfonatohexadecanoate,CCCCCCCCCCCCCCC(C(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+],380.5,Found by mass lookup
+235,302.3,SODIUM ALPHA SULFO LAURIC ACID,sodium;1-hydroxy-3-oxododecane-1-sulfonate,CCCCCCCCCC(=O)CC(O)S(=O)(=O)[O-].[Na+],302.36,LLM initial name and weight
+236,330.4,SODIUM ALPHA SULFO MYRISTIC ACID,sodium;2-dodecoxy-2-oxoethanesulfonate,CCCCCCCCCCCCOC(=O)CS(=O)(=O)[O-].[Na+],330.42,LLM initial name and weight
+237,358.4,SODIUM ALPHA SULFO PALMITIC ACID,sodium;2-tetradecanoyloxyethanesulfonate,CCCCCCCCCCCCCC(=O)OCCS(=O)(=O)[O-].[Na+],358.5,LLM initial name and weight
+238,288.3,SODIUM DODECANE 1-HYDROXY 2-SULFONATE,sodium;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],288.38,LLM initial name and weight
+239,316.4,SODIUM TETRADECANE 1-HYDROXY 2-SULFONATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+240,344.4,SODIUM HEXADECANE 1-HYDROXY 2-SULFONATE,sodium;hexadecyl sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],344.5,LLM initial name and weight
+241,372.5,SODIUM OCTADECANE 1-HYDROXY 2-SULFONATE,sodium;octadecyl sulfate,CCCCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],372.5,LLM initial name and weight
+242,264.4,TRIDECANE 1-SULFONIC ACID,dodecyl methanesulfonate,CCCCCCCCCCCCOS(=O)(=O)C,264.43,LLM initial name and weight
+243,278.4,TETRADECANE 1-SULFONIC ACID,tetradecane-7-sulfonic acid,CCCCCCCC(CCCCCC)S(=O)(=O)O,278.45,LLM initial name and weight
+244,292.4,PENTADECANE 1-SULFONIC ACID,tetradecyl methanesulfonate,CCCCCCCCCCCCCCOS(=O)(=O)C,292.5,LLM initial name and weight
+245,306.5,HEXADECANE 1-SULFONIC ACID,hexadecane-1-sulfonic acid,CCCCCCCCCCCCCCCCS(=O)(=O)O,306.5,LLM initial name and weight
+246,320.5,HEPTADECANE 1-SULFONIC ACID,hexadecyl methanesulfonate,CCCCCCCCCCCCCCCCOS(=O)(=O)C,320.5,LLM initial name and weight
+247,266.3,DODECANE 1-HYDROXY 2-SULFONIC ACID,dodecyl hydrogen sulfate,CCCCCCCCCCCCOS(=O)(=O)O,266.4,LLM initial name and weight
+248,294.4,TETRADECANE 1-HYDROXY 2-SULFONIC ACID,tetradecyl hydrogen sulfate,CCCCCCCCCCCCCCOS(=O)(=O)O,294.45,LLM initial name and weight
+249,322.5,HEXADECANE 1-HYDROXY 2-SULFONIC ACID,hexadecyl hydrogen sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)O,322.5,LLM initial name and weight
+250,350.5,OCTADECANE 1-HYDROXY 2-SULFONIC ACID,octadecyl hydrogen sulfate,CCCCCCCCCCCCCCCCCCOS(=O)(=O)O,350.6,LLM initial name and weight
+251,173.3,OCTYL DIMETHYL AMINE OXIDE,2-(dibutylamino)ethanol,CCCCN(CCCC)CCO,173.3,LLM initial name and weight
+252,201.3,DECYL DIMETHYL AMINE OXIDE,"N,N-dimethyldecan-1-amine oxide",CCCCCCCCCC[N+](C)(C)[O-],201.35,LLM initial name and weight
+253,257.5,TETRADECYL DIMETHYL AMINE OXIDE,"N,N-dimethyltetradecan-1-amine oxide",CCCCCCCCCCCCCC[N+](C)(C)[O-],257.45,LLM initial name and weight
+254,187.3,NONYL DIMETHYL AMINE OXIDE,3-(2-ethylhexoxy)propan-1-amine,CCCCC(CC)COCCCN,187.32,LLM initial name and weight
+255,354.6,"POTASSIUM 9,10 DIHYDROXY STEARATE","potassium;9,10-dihydroxyoctadecanoate",CCCCCCCCC(C(CCCCCCCC(=O)[O-])O)O.[K+],354.6,LLM initial name and weight
+256,322.6,POTASSIUM STEARATE,potassium;octadecanoate,CCCCCCCCCCCCCCCCCC(=O)[O-].[K+],322.6,LLM initial name and weight
+257,332.3,SODIUM DI-N-BUTYL SULFOSUCCINATE,"sodium;1,4-bis(2-methylpropoxy)-1,4-dioxobutane-2-sulfonate",CC(C)COC(=O)CC(C(=O)OCC(C)C)S(=O)(=O)[O-].[Na+],332.35,Found by mass lookup
+258,360.3,SODIUM DI-N-AMYL SULFOSUCCINATE,N/A,N/A,0,Unknown
+259,388.4,SODIUM DI-N-HEXYL SULFOSUCCINATE,sodium;2-[2-(11-methyldodecanoyloxy)ethoxy]ethanesulfonate,CC(C)CCCCCCCCCC(=O)OCCOCCS(=O)(=O)[O-].[Na+],388.5,Found by mass lookup
+260,444.5,SODIUM DI-N-OCTYL SULFOSUCCINATE,"sodium;1,4-bis(2-ethylhexoxy)-1,4-dioxobutane-2-sulfonate",CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(=O)(=O)[O-].[Na+],444.6,LLM initial name and weight
+261,332.3,SODIUM DI-ISOBUTYL SULFOSUCCINATE,sodium;(1-decoxy-1-oxopropan-2-yl) sulfate,CCCCCCCCCCOC(=O)C(C)OS(=O)(=O)[O-].[Na+],332.39,Found by mass lookup
+262,444.5,SODIUM DI-2-ETHYL-HEXYL SULFOSUCCINATE,"sodium;1,4-bis(2-ethylhexoxy)-1,4-dioxobutane-2-sulfonate",CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(=O)(=O)[O-].[Na+],444.6,LLM initial name and weight
+263,304.4,SODIUM OLEATE /CIS-9-OCTADECENOATE/,sodium;(Z)-octadec-9-enoate,CCCCCCCCC=CCCCCCCCC(=O)[O-].[Na+],304.4,LLM initial name and weight
+264,304.4,SODIUM ELAIDATE /TRANS-9-OCTADECENOATE/,sodium;(Z)-octadec-9-enoate,CCCCCCCCC=CCCCCCCCC(=O)[O-].[Na+],304.4,LLM initial name and weight
+265,320,HEXADECYL TRIMETHYL AMMONIUM CHLORIDE,hexadecyl(trimethyl)azanium;chloride,CCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],320,LLM initial name and weight
+266,350,HEXADECYL DIMETHYL 2-HYDROXYETHYL AMMONIUM CHLORIDE,hexadecyl-(2-hydroxyethyl)-dimethylazanium;chloride,CCCCCCCCCCCCCCCC[N+](C)(C)CCO.[Cl-],350,LLM initial name and weight
+267,380.1,HEXADECYL DI-/2-HYDROXYETHYL/METHYL AMMONIUM CHLORIDE,"2-amino-2-octadecylpropane-1,3-diol;hydrochloride",CCCCCCCCCCCCCCCCCCC(CO)(CO)N.Cl,380,LLM initial name and weight
+268,410.1,HEXADECYL TRI-/2-HYDROXYETHYL/ AMMONIUM CHLORIDE,hexadecyl-tris(2-hydroxyethyl)azanium;chloride,CCCCCCCCCCCCCCCC[N+](CCO)(CCO)CCO.[Cl-],410.1,LLM initial name and weight
+269,380.1,"HEXADECYLDIMETHYL2,3-DIHYDROXYPROPYLAMMONIUM CHLORIDE","2-amino-2-octadecylpropane-1,3-diol;hydrochloride",CCCCCCCCCCCCCCCCCCC(CO)(CO)N.Cl,380,LLM initial name and weight
+270,348.1,OCTADECYL TRIMETHYLAMMONIUM CHLORIDE,trimethyl(octadecyl)azanium;chloride,CCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],348,LLM initial name and weight
+271,306.3,SODIUM TRI-IS0-PROPYL BENZENE SULFONATE,sodium;2-nonylbenzenesulfonate,CCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],306.4,LLM initial name and weight
+272,284.3,TRI-ISOPROPYL BENZENE SULFONIC ACID,"2,4,6-tri(propan-2-yl)benzenesulfonic acid",CC(C)C1=CC(=C(C(=C1)C(C)C)S(=O)(=O)O)C(C)C,284.4,LLM initial name and weight
+273,222.3,SODIUM DODECANOATE,sodium;dodecanoate,CCCCCCCCCCCC(=O)[O-].[Na+],222.3,LLM initial name and weight
+274,340,HEXADECYL PYRIDINIUM CHLORIDE,1-hexadecylpyridin-1-ium;chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],340,LLM initial name and weight
+275,396.1,HEXADECYL DIMETHYLBENZYLAMMONIUM CHLORIDE,benzyl-hexadecyl-dimethylazanium;chloride,CCCCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],396.1,LLM initial name and weight
+276,596.8,NONAETHYLENE GLYCOL MONODODECANOATE NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-(2-hydroxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethyl dodecanoate,CCCCCCCCCCCC(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCO,596.8,LLM initial name and weight
+277,349.6,BENZYL TRIMETHYL AMMONIUM DODECANOATE,"(8Z,11Z,14Z)-N-(2-hydroxyethyl)icosa-8,11,14-trienamide",CCCCCC=CCC=CCC=CCCCCCCC(=O)NCCO,349.5,LLM initial name and weight
+278,283.9,DODECYL PYRIDINIUM CHLORIDE,1-dodecylpyridin-1-ium;chloride,CCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],283.9,LLM initial name and weight
+279,340,DODECYL BENZYL DIMETHYLAMMONIUM CHLORIDE,1-hexadecylpyridin-1-ium;chloride,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],340,LLM initial name and weight
+280,465.8,DECYL TRIMETHYL AMMONIUM DODECYL SULFATE,hydrogen sulfate;methyl(trioctyl)azanium,CCCCCCCC[N+](C)(CCCCCCCC)CCCCCCCC.OS(=O)(=O)[O-],465.8,LLM initial name and weight
+281,493.8,DODECYL TRIMETHYLAMMONIUM DODECYL SULFATE,dodecyl sulfate;dodecyl(trimethyl)azanium,CCCCCCCCCCCC[N+](C)(C)C.CCCCCCCCCCCCOS(=O)(=O)[O-],493.8,LLM initial name and weight
+282,506.8,HEXADECYL /OXYETHYLENE/ 6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-hexadecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCO,506.8,LLM initial name and weight
+283,399.7,HEXANOLAMINE-CH3CH/OH/CH2C/CH3/2NH2-ELAIDATE,2-(diethylamino)ethanol;(Z)-octadec-9-enoic acid,CCCCCCCCC=CCCCCCCCC(=O)O.CCN(CC)CCO,399.7,LLM retried name and weight
+284,261.4,HEXANOLAMINE-CH3CH/OH/CH2C/CH3/2NH2-OCTANOATE,2-aminoethanol;dodecanoic acid,CCCCCCCCCCCC(=O)O.C(CO)N,261.4,LLM initial name and weight
+285,399.7,HEXANOLAMINE-CH3CH/OH/CH2C/CH3/2NH2-OLEATE,2-(diethylamino)ethanol;(Z)-octadec-9-enoic acid,CCCCCCCCC=CCCCCCCCC(=O)O.CCN(CC)CCO,399.7,LLM retried name and weight
+286,439.6,AMMONIUM DI-2-ETHYL-HEXYL SULFOSUCCINATE,"azanium;1,4-bis(2-ethylhexoxy)-1,4-dioxobutane-2-sulfonate",CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(=O)(=O)[O-].[NH4+],439.6,LLM initial name and weight
+287,365.6,OCTYL TRIMETHYLAMMONIUM OCTANE SULFONATE,dimethyl(tetradecyl)azanium;propane-1-sulfonate,CCCCCCCCCCCCCC[NH+](C)C.CCCS(=O)(=O)[O-],365.6,LLM initial name and weight
+288,421.7,DECYL TRIMETHYLAMMONIUM DECANESULFONATE,dimethyl(octadecyl)azanium;propane-1-sulfonate,CCCCCCCCCCCCCCCCCC[NH+](C)C.CCCS(=O)(=O)[O-],421.7,LLM initial name and weight
+289,478.7,TETRADECYL/OXYETHYLENE/6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-tetradecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCO,478.7,LLM initial name and weight
+290,328.3,DODECYL PYRIDINIUM BROMIDE,1-dodecylpyridin-1-ium;bromide,CCCCCCCCCCCC[N+]1=CC=CC=C1.[Br-],328.3,LLM initial name and weight
+291,420.6,TETRADECYL TRIPROPYLAMMONIUM BROMIDE,icosyl(trimethyl)azanium;bromide,CCCCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],420.6,LLM initial name and weight
+292,448,HEXADECYL TRIPROPYLAMMONIUM BROMIDE,N/A,N/A,0,Unknown
+293,310.3,DODECYL DIMETHYL AMINE OXIDE HYDROBROMIDE,decyl-(2-hydroxyethyl)-dimethylazanium;bromide,CCCCCCCCCC[N+](C)(C)CCO.[Br-],310.31,LLM initial name and weight
+294,366.5,HEXYL/OXYETHYLENE/6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-hydroxypropoxy)propoxy]propoxy]propoxy]propoxy]propan-1-ol,CC(CO)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)O,366.5,LLM initial name and weight
+295,246.2,SODIUM NONYL 1-SULFATE,sodium;nonyl sulfate,CCCCCCCCCOS(=O)(=O)[O-].[Na+],246.3,LLM initial name and weight
+296,168.2,POTASSIUM HEPTANOATE,potassium;heptanoate,CCCCCCC(=O)[O-].[K+],168.27,LLM initial name and weight
+297,224.4,POTASSIUM UNDECANOATE,potassium;undecanoate,CCCCCCCCCCC(=O)[O-].[K+],224.38,LLM initial name and weight
+298,250.3,SODIUM TETRADECANOATE,sodium;tetradecanoate,CCCCCCCCCCCCCC(=O)[O-].[Na+],250.35,LLM initial name and weight
+299,194.2,SODIUM DECANOATE,sodium;decanoate,CCCCCCCCCC(=O)[O-].[Na+],194.25,LLM initial name and weight
+300,278.4,SODIUM HEXADECANOATE,sodium;hexadecanoate,CCCCCCCCCCCCCCCC(=O)[O-].[Na+],278.41,LLM initial name and weight
+301,348.4,SODIUM 3-N-DODECYL BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+302,348.4,SODIUM 4-N-DODECYL BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+303,245.4,DI-ISOPROPYLAMMONIUM CAPRYLATE,acetic acid;dodecan-1-amine,CCCCCCCCCCCCN.CC(=O)O,245.4,LLM initial name and weight
+304,352.6,CATOL 607 (N-/LAURYL-COLAMINO-FORMYL-METHYL/ -PYRIDINIUM CHLORIDE),N/A,N/A,0,Unknown
+305,320.6,POTASSIUM OLEATE/ CIS-9-OCTADECENOATE/,potassium;(Z)-octadec-9-enoate,CCCCCCCCC=CCCCCCCCC(=O)[O-].[K+],320.6,LLM initial name and weight
+306,496.9,DECYL TRIMETHYLAMMONIUM SULFATE,tributyl(methyl)azanium;sulfate,CCCC[N+](C)(CCCC)CCCC.CCCC[N+](C)(CCCC)CCCC.[O-]S(=O)(=O)[O-],496.8,LLM initial name and weight
+307,553,DODECYL TRIMETHYLAMMONIUM SULFATE,dodecyl(trimethyl)azanium;sulfate,CCCCCCCCCCCC[N+](C)(C)C.CCCCCCCCCCCC[N+](C)(C)C.[O-]S(=O)(=O)[O-],552.9,LLM initial name and weight
+308,609.1,TETRADECYL TRIMETHYLAMMONIUM SULFATE,trimethyl(tetradecyl)azanium;sulfate,CCCCCCCCCCCCCC[N+](C)(C)C.CCCCCCCCCCCCCC[N+](C)(C)C.[O-]S(=O)(=O)[O-],609,LLM initial name and weight
+309,665.2,HEXADECYL TRIMETHYLAMMONIUM SULFATE,hexadecyl(trimethyl)azanium;sulfate,CCCCCCCCCCCCCCCC[N+](C)(C)C.CCCCCCCCCCCCCCCC[N+](C)(C)C.[O-]S(=O)(=O)[O-],665.2,LLM initial name and weight
+310,627,DODECYL/OXYETHYLENE/10 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,626.9,LLM initial name and weight
+311,274.3,SODIUM UNDECYL 1-SULFATE,sodium;undecyl sulfate,CCCCCCCCCCCOS(=O)(=O)[O-].[Na+],274.35,LLM initial name and weight
+312,420.7,"TRIDECYL/OXYETHYLENE/5 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION","decanoic acid;2,2-dimethylpropane-1,3-diol;octanoic acid",CCCCCCCCCC(=O)O.CCCCCCCC(=O)O.CC(C)(CO)CO,420.6,LLM initial name and weight
+313,619,"TRIDECYL/OXYETHYLENE/9.5 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION",N/A,N/A,0,Unknown
+314,817.2,"TRIDECYL/OXYETHYLENE/14 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-tridecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,817.1,LLM initial name and weight
+315,1081.6,TRIDECYL/OXYETHYLENE/20 ALCOHOL BRANCHED CHAIN REDUCED 0E DISTRIBUTION,N/A,N/A,0,Unknown
+316,1522.2,"TRIDECYL/OXYETHYLENE/30 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION",N/A,N/A,0,Unknown
+317,647,T-OCTYL BENZENE/OXYETHYLENE/10 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+318,1087.6,T-OCTYL BENZENE/OXYETHYLENE/20 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+319,1528.2,T-OCTYL BENZENE/OXYETHYLENE/30 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+320,661,"NONYL BENZENE/OXYETHYLENE/10 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCC1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,660.9,LLM initial name and weight
+321,881.3,"NONYL BENZENE/OXYETHYLENE/15 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION","2,2-bis(hydroxymethyl)propane-1,3-diol;2-hydroxypropane-1,2,3-tricarboxylic acid;octadecanoic acid;(Z)-octadec-9-en-1-ol",CCCCCCCCCCCCCCCCCC(=O)O.CCCCCCCCC=CCCCCCCCCO.C(C(=O)O)C(CC(=O)O)(C(=O)O)O.C(C(CO)(CO)CO)O,881.2,Found by mass lookup
+326,803.2,DODECYL/OXYETHYLENE/14 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,1-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-hexoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]hexane,CCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCCCCC,803.1,LLM initial name and weight
+327,1199.8,DODECYL/OXYETHYLENE/23 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+328,887.4,OCTADECYL/OXYETHYLENE/14 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+329,4676.6,OCTADECYL/OXYETHYLENE/100 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+330,550.9,HEXADECYL/OXYETHYLENE/7 ALCOHOL HOMOGENEOUS HEAD GROUP,"2,2-bis(hydroxymethyl)propane-1,3-diol;docosanoic acid;ethoxyethane",CCCCCCCCCCCCCCCCCCCCCC(=O)O.CCOCC.C(C(CO)(CO)CO)O,550.9,Found by mass lookup
+331,639,HEXADECYL/OXYETHYLENE/9 ALCOHOL HOMOGENEOUS HEAD GROUP,"1-ethoxy-2,2-bis(ethoxymethyl)pentane;1-ethoxy-2-[[3-ethoxy-2,2-bis(ethoxymethyl)propoxy]methyl]-2-(ethoxymethyl)pentane",CCCC(COCC)(COCC)COCC.CCCC(COCC)(COCC)COCC(COCC)(COCC)COCC,639,Found by mass lookup
+332,771.2,HEXADECYL/OXYETHYLENE/12 ALCOHOL HOMOGENEOUS HEAD GROUP,"acetylene;ethane;formaldehyde;hydrogen peroxide;methanol;(3R,5R,11S)-3,5,11,13,13-pentahydroxy-15-[(2S)-2-[(2R,3S)-3-methoxy-2-methylbutyl]cyclotridecyl]pentadecanal",CC.CC(CC1CCCCCCCCCCCC1CCC(CC(CCCCCC(CC(CC=O)O)O)O)(O)O)C(C)OC.CO.CO.C=O.C#C.OO,771.1,Found by mass lookup
+333,903.4,HEXADECYL/OXYETHYLENE/15 ALCOHOL HOMOGENEOUS HEAD GROUP,N/A,N/A,0,Unknown
+334,1167.8,HEXADECYL/OXYETHYLENE/21 ALCOHOL HOMOGENEOUS HEAD GROUP,N/A,N/A,0,Unknown
+335,580.9,"OCTYL BENZENE/OXYETHYLENE/8.5 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-(2-pentadecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCO,580.8,Found by mass lookup
+336,639,"NONYL BENZENE/OXYETHYLENE/9.5 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-[2-(2-hexadecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,638.9,Found by mass lookup
+337,683,"NONYL BENZENE/OXYETHYLENE/10.5 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION","[(6E,18E)-10,15-dihydroxy-2,6,10,15,19,23-hexamethyl-14-[(2S,3S,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxytetracosa-2,6,18,22-tetraen-11-yl] acetate",CC(=CCCC(=CCCC(C)(C(CCC(C(C)(CCC=C(C)CCC=C(C)C)O)OC(=O)C)OC1C(C(C(C(O1)CO)O)O)O)O)C)C,682.9,Found by mass lookup
+338,4626.4,"NONYL BENZENE/OXYETHYLENE/100 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+339,354.7,MAGNESIUM HEXANE SULFONATE,magnesium;hexane-1-sulfonate,CCCCCCS(=O)(=O)[O-].CCCCCCS(=O)(=O)[O-].[Mg+2],354.8,Found by mass lookup
+340,410.8,MAGNESIUM OCTANE SULFONATE,magnesium;octane-1-sulfonate,CCCCCCCCS(=O)(=O)[O-].CCCCCCCCS(=O)(=O)[O-].[Mg+2],410.9,Found by mass lookup
+341,466.9,MAGNESIUM DECANE SULFONATE,magnesium;decane-1-sulfonate,CCCCCCCCCCS(=O)(=O)[O-].CCCCCCCCCCS(=O)(=O)[O-].[Mg+2],467,Found by mass lookup
+342,523.1,MAGNESIUM DODECANE SULFONATE,magnesium;dodecane-1-sulfonate,CCCCCCCCCCCCS(=O)(=O)[O-].CCCCCCCCCCCCS(=O)(=O)[O-].[Mg+2],523.1,Found by mass lookup
+343,174.2,SODIUM PENTANE SULFONATE,sodium;pentane-1-sulfonate,CCCCCS(=O)(=O)[O-].[Na+],174.2,LLM initial name and weight
+344,188.2,SODIUM HEXANE SULFONATE,sodium;hexane-1-sulfonate,CCCCCCS(=O)(=O)[O-].[Na+],188.22,LLM initial name and weight
+345,418.3,DIDODECYL DIMETHYLAMMONIUM CHLORIDE,didodecyl(dimethyl)azanium;chloride,CCCCCCCCCCCC[N+](C)(C)CCCCCCCCCCCC.[Cl-],418.2,LLM initial name and weight
+346,437.8,DECYL TRIMETHYLAMMONIUM DECYL SULFATE,decyl sulfate;decyl(trimethyl)azanium,CCCCCCCCCC[N+](C)(C)C.CCCCCCCCCCOS(=O)(=O)[O-],437.7,LLM initial name and weight
+347,381.6,OCTYL TRIMETHYLAMMOMIUM OCTYL SULFATE,hexadecyl(trimethyl)azanium;hydrogen sulfate,CCCCCCCCCCCCCCCC[N+](C)(C)C.OS(=O)(=O)[O-],381.6,LLM initial name and weight
+348,443.2,NN-DIMETHYL 1-1-DIHYDROPENTADECAFLUORO OCTYL AMINE N-OXIDE /C7F15CH2N/CH3/20/,"1-amino-4,4,5,5,6,6,7,7,8,9,9,9-dodecafluoro-8-(trifluoromethyl)nonan-2-ol",C(C(CN)O)C(C(C(C(C(C(F)(F)F)(C(F)(F)F)F)(F)F)(F)F)(F)F)(F)F,443.15,LLM initial name and weight
+349,356.5,SODIUM OCTADECANE 1-SULFONATE,sodium;octadecane-1-sulfonate,CCCCCCCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],356.5,LLM initial name and weight
+350,196.4,POTASSIUM NONANOATE,potassium;nonanoate,CCCCCCCCC(=O)[O-].[K+],196.33,LLM initial name and weight
+351,252.5,POTASSIUM TRIDECANOATE,potassium;11-methyldodecanoate,CC(C)CCCCCCCCCC(=O)[O-].[K+],252.43,LLM initial name and weight
+352,388.4,SODIUM DI-1-METHYLISOAMYL SULFOSUCCINATE,"sodium;1,4-dihexoxy-1,4-dioxobutane-2-sulfonate",CCCCCCOC(=O)CC(C(=O)OCCCCCC)S(=O)(=O)[O-].[Na+],388.5,LLM retried name and weight
+353,393.7,OCTYL TRIMETHYLAMMONIUM DECANE SULFONATE,hexadecyl(dimethyl)azanium;propane-1-sulfonate,CCCCCCCCCCCCCCCC[NH+](C)C.CCCS(=O)(=O)[O-],393.7,LLM initial name and weight
+354,255.9,HEXYL BENZYL DIMETHYLAMMONIUM CHLORIDE,1-decylpyridin-1-ium;chloride,CCCCCCCCCC[N+]1=CC=CC=C1.[Cl-],255.82,LLM initial name and weight
+355,363.1,AMMONIUM DODECAFLUOROHEPTANOATE H/CF2/6CO0NH4,"azane;2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptanoic acid",C(C(C(C(C(C(C(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F.N,363.1,Found by mass lookup
+356,312,DECYL BENZYL DIMETHYLAMMONIUM CHLORIDE,benzyl-decyl-dimethylazanium;chloride,CCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],311.9,LLM initial name and weight
+357,368.1,TETRADECYL BENZYL DIMETHYLAMMONIUM CHLORIDE,benzyl-dimethyl-tetradecylazanium;chloride,CCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],368,LLM initial name and weight
+358,424.2,OCTADECYL BENZYL DIMETHYLAMMONIUM CHLORIDE,benzyl-dimethyl-octadecylazanium;chloride,CCCCCCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],424.1,LLM initial name and weight
+359,328.9,OCTYL 4-NITROBENZYL DIMETHYLAMMONIUM CHLORIDE,"(2S)-N-(2,6-dimethylphenyl)-1-propylpiperidine-2-carboxamide;hydrate;hydrochloride",CCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C.O.Cl,328.9,LLM initial name and weight
+360,357,DECYL 4-NITROBENZYL DIMETHYLAMMONIUM CHLORIDE,3-methylbutyl 2-[2-(diethylamino)ethylamino]-2-phenylacetate;hydrochloride,CCN(CC)CCNC(C1=CC=CC=C1)C(=O)OCCC(C)C.Cl,356.9,LLM initial name and weight
+361,385,DODECYL 4-NITROBENZYL DIMETHYL AMMONIUM CHLORIDE,[1-(4-aminobenzoyl)oxy-2-methylpropan-2-yl]-decylazanium;chloride,CCCCCCCCCC[NH2+]C(C)(C)COC(=O)C1=CC=C(C=C1)N.[Cl-],385,LLM initial name and weight
+362,413.1,TETRADECYL 4-NITROBENZYL DIMETHYLAMMONIUM CHLORIDE,"1-(2,6-dimethylheptan-4-ylamino)propan-2-yl 4-(diethylamino)benzoate;hydrochloride",CCN(CC)C1=CC=C(C=C1)C(=O)OC(C)CNC(CC(C)C)CC(C)C.Cl,413,LLM initial name and weight
+363,441.2,HEXADECYL 4-NITROBENZYL DIMETHYLAMMONIUM CHLORIDE,"1-(16-piperidin-1-ylhexadecyl)pyrrole-2,5-dione;hydrochloride",C1CCN(CC1)CCCCCCCCCCCCCCCCN2C(=O)C=CC2=O.Cl,441.1,LLM initial name and weight
+364,469.2,OCTADECYL 4-NITROBENZYL DIMETHYLAMMONIUM CHLORIDE,2-(dimethylamino)ethyl 4-(hexadecylamino)benzoate;hydrochloride,CCCCCCCCCCCCCCCCNC1=CC=C(C=C1)C(=O)OCCN(C)C.Cl,469.1,LLM initial name and weight
+365,374.5,DODECYL 2-CHLOROBENZYL DIMETHYLAMMONIUM CHLORIDE,benzyl-(2-chloroethyl)-dodecylazanium;chloride,CCCCCCCCCCCC[NH+](CCCl)CC1=CC=CC=C1.[Cl-],374.4,LLM initial name and weight
+366,408.9,DODECYL 2-4-DICHLOROBENZYL DIMETHYLAMMONIUMCHLORIDE,"(3,4-dichlorophenyl)methyl-dodecyl-dimethylazanium;chloride",CCCCCCCCCCCC[N+](C)(C)CC1=CC(=C(C=C1)Cl)Cl.[Cl-],408.9,LLM initial name and weight
+367,374.5,DODECYL 4-CHLOROBENZYL DIMETHYLAMMONIUM CHLORIDE,benzyl-(2-chloroethyl)-dodecylazanium;chloride,CCCCCCCCCCCC[NH+](CCCl)CC1=CC=CC=C1.[Cl-],374.4,LLM initial name and weight
+368,401,DODECYL 2-HYDROXY-5-NITROBENZYL DIMETHYLAMMONIUM CHLORIDE,diethyl-[2-[(2-heptoxyphenyl)carbamoyloxy]propyl]azanium;chloride,CCCCCCCOC1=CC=CC=C1NC(=O)OC(C)C[NH+](CC)CC.[Cl-],401,LLM initial name and weight
+369,408.9,DODECYL 3-4-DICHLOROBENZYL DIMETHYLAMMONIUMCHLORIDE,"(3,4-dichlorophenyl)methyl-dodecyl-dimethylazanium;chloride",CCCCCCCCCCCC[N+](C)(C)CC1=CC(=C(C=C1)Cl)Cl.[Cl-],408.9,LLM initial name and weight
+370,384.1,DODECYL 3-4-METHYLENEDIOXYBENZYL DIMETHYLAMMONIUM CHLORIDE,"2-aminoethyl (5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraenoate;hydrochloride",CCCCCC=CCC=CCC=CCC=CCCCC(=O)OCCN.Cl,384,LLM initial name and weight
+371,400.1,DODECYL 3-4-DIMETHOXYBENZYL IMETHYLAMMONIUMCHLORIDE,benzyl-dodecyl-bis(2-hydroxyethyl)azanium;chloride,CCCCCCCCCCCC[N+](CCO)(CCO)CC1=CC=CC=C1.[Cl-],400,LLM initial name and weight
+372,463.1,AMMONIUM HEXADECAFLUORONONANOATE H/CF2/8 COO NH4,N/A,N/A,0,Unknown
+373,563.2,AMMONIUM EICOSAFLUOROUNDECANOATE H/CF2/10 C00 NH4,N/A,N/A,0,Unknown
+374,346.1,DODECAFLUOROHEPTANOIC ACID H/CF2/6C00H,"2,2,3,3,4,4,5,5,6,6,7,7-dodecafluoroheptanoic acid",C(C(C(C(C(C(C(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,346.07,LLM retried name and weight
+375,446.1,HEXADECAFLUORONONANOIC ACID H/CF2/8COOH,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9-hexadecafluorononanoic acid",C(C(C(C(C(C(C(C(C(=O)O)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,446.08,LLM initial name and weight
+376,375.4,DODECYL PYRIDINIUM TODIDE,1-dodecylpyridin-1-ium;iodide,CCCCCCCCCCCC[N+]1=CC=CC=C1.[I-],375.3,LLM initial name and weight
+377,406.7,DODECYL/OXYETHYLENE/ 5 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCO,406.6,LLM initial name and weight
+378,378.6,DECYL/OXYETHYLENE/5 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-(2-decoxyethoxy)ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCOCCOCCOCCOCCOCCO,378.5,LLM initial name and weight
+379,334.6,DECYL/OXYETHYLENE/4 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-(2-decoxyethoxy)ethoxy]ethoxy]ethanol,CCCCCCCCCCOCCOCCOCCOCCO,334.5,LLM initial name and weight
+380,278.4,HEXYL/OXYETHYLENE/4 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-(2-hexoxyethoxy)ethoxy]ethoxy]ethanol,CCCCCCOCCOCCOCCOCCO,278.38,LLM initial name and weight
+381,322.5,HEXYL/OXYETHYLENE/5 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-(2-hexoxyethoxy)ethoxy]ethoxy]ethoxy]ethanol,CCCCCCOCCOCCOCCOCCOCCO,322.44,LLM initial name and weight
+382,353.6,ETHYL TRIMETHYLAMMONIUM DODECYL SULFATE,hydrogen sulfate;trimethyl(tetradecyl)azanium,CCCCCCCCCCCCCC[N+](C)(C)C.OS(=O)(=O)[O-],353.6,LLM initial name and weight
+383,381.6,BUTYL TRIMETHYLAMMONIUM DODECYL SULFATE,hexadecyl(trimethyl)azanium;hydrogen sulfate,CCCCCCCCCCCCCCCC[N+](C)(C)C.OS(=O)(=O)[O-],381.6,LLM initial name and weight
+384,409.7,HEXYL TRIMETHYLAMMONIUM DODECYL SULFATE,heptadecyl(trimethyl)azanium;methyl sulfate,CCCCCCCCCCCCCCCCC[N+](C)(C)C.COS(=O)(=O)[O-],409.7,LLM initial name and weight
+385,437.8,OCTYL TRIMETHYLAMMONIUM DODECYL SULFATE,decyl sulfate;decyl(trimethyl)azanium,CCCCCCCCCC[N+](C)(C)C.CCCCCCCCCCOS(=O)(=O)[O-],437.7,LLM initial name and weight
+386,283.4,AMMONIUM DODECYL SULFATE,azanium;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[NH4+],283.43,LLM initial name and weight
+387,297.5,METHYLAMMONIUM DODECYL SULFATE,azanium;tridecyl sulfate,CCCCCCCCCCCCCOS(=O)(=O)[O-].[NH4+],297.46,LLM initial name and weight
+388,311.5,ETHYLAMMONIUM DODECYL SULFATE,azane;tetradecyl hydrogen sulfate,CCCCCCCCCCCCCCOS(=O)(=O)O.N,311.48,LLM initial name and weight
+389,339.5,BUTYLAMMONIUM DODECYL SULFATE,hydrogen sulfate;tetrabutylazanium,CCCC[N+](CCCC)(CCCC)CCCC.OS(=O)(=O)[O-],339.5,LLM initial name and weight
+390,367.6,HEXYLAMMONIUM DODECYL SULFATE,dodecyl-ethyl-dimethylazanium;ethyl sulfate,CCCCCCCCCCCC[N+](C)(C)CC.CCOS(=O)(=O)[O-],367.6,LLM initial name and weight
+391,395.7,OCTYLAMMONIUM DODECYL SULFATE,hexadecyl(trimethyl)azanium;methyl sulfate,CCCCCCCCCCCCCCCC[N+](C)(C)C.COS(=O)(=O)[O-],395.6,LLM initial name and weight
+392,165.7,OCTYLAMMONIUM CHLORIDE,tetraethylazanium;chloride,CC[N+](CC)(CC)CC.[Cl-],165.7,LLM initial name and weight
+393,338.5,BUTYL/OXYETHYLENE/6 ALCOHOL HOMOGENEOUS HEAD GROUP,1-ethoxy-2-[2-[2-[2-[2-(2-ethoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethane,CCOCCOCCOCCOCCOCCOCCOCC,338.44,LLM initial name and weight
+394,338.5,I-METHYL PROPYL/OXYETHYLENE/6 ALCOHOL HOMOGENEOUS HEAD GROUP,1-ethoxy-2-[2-[2-[2-[2-(2-ethoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethane,CCOCCOCCOCCOCCOCCOCCOCC,338.44,LLM initial name and weight
+395,366.6,ETHYL BUTYL/OXYETHYLENE/6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-hydroxypropoxy)propoxy]propoxy]propoxy]propoxy]propan-1-ol,CC(CO)OCC(C)OCC(C)OCC(C)OCC(C)OCC(C)O,366.5,LLM initial name and weight
+396,394.6,PROPYL PENTYL/OXYETHYLENE/6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-octoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCOCCOCCOCCOCCOCCOCCO,394.5,LLM initial name and weight
+397,422.7,BUTYL HEXYL/OXYETHYLENE/6 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-(2-decoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCOCCOCCOCCOCCOCCOCCO,422.6,LLM initial name and weight
+398,554.9,BUTYL HEXYL/OXYETHYLENE/9 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-[2-[2-[2-(2-decoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,554.8,LLM initial name and weight
+399,278,DODECYL DIMETHYL ETHYLAMMONIUM CHLORIDE,tetrabutylazanium;chloride,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],277.9,LLM initial name and weight
+400,292,DODECYL METHYL DIETHYLAMMONIUM CHLORIDE,trimethyl(tetradecyl)azanium;chloride,CCCCCCCCCCCCCC[N+](C)(C)C.[Cl-],291.9,LLM initial name and weight
+401,306,DODECYL TRIETHYLAMMONIUM CHLORIDE,dimethyl(dioctyl)azanium;chloride,CCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-],306,LLM initial name and weight
+402,278,TRIDECYL TRIMETHYLAMMONIUM CHLORIDE,tetrabutylazanium;chloride,CCCC[N+](CCCC)(CCCC)CCCC.[Cl-],277.9,LLM initial name and weight
+403,326,DODECYL DIMETHYLPHENYLAMMONIUM CHLORIDE,4-methyl-1-tetradecylpyridin-1-ium;chloride,CCCCCCCCCCCCCC[N+]1=CC=C(C=C1)C.[Cl-],326,LLM initial name and weight
+404,354.1,DODECYL DIMETHYL 2-PHENYLETHYLAMMONIUM CHLORIDE C6H5CH2CH2/N/CH3/2/C12H25,benzyl-dimethyl-tridecylazanium;chloride,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],354,LLM initial name and weight
+405,354.1,DODECYL (ETHYLETHYLBENZYLAMMONIUM CHLORIDE,benzyl-dimethyl-tridecylazanium;chloride,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],354,LLM initial name and weight
+406,408,DODECYL DIMETHYL META-TRIFLUOROMETHYLBENZYL AMMONIUM CF3C6H4CH2/N/CH3/2/C12H25 CHLORIDE,dodecyl-dimethyl-[[3-(trifluoromethyl)phenyl]methyl]azanium;chloride,CCCCCCCCCCCC[N+](C)(C)CC1=CC(=CC=C1)C(F)(F)F.[Cl-],408,LLM initial name and weight
+407,368.1,DODECYL DIMETHYL 3-PHENYLPROPYLAMMONIUM CHLORIDE C6H5CH2CH2/N/CH3/2/C12H25,benzyl-dimethyl-tetradecylazanium;chloride,CCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],368,LLM initial name and weight
+408,344.6,POTASSIUM HEXADECANE 1-SULFONATE,potassium;hexadecane-4-sulfonate,CCCCCCCCCCCCC(CCC)S(=O)(=O)[O-].[K+],344.6,LLM initial name and weight
+409,415.6,TRIETHANOLAMMONIUM DODECYL SULFATE,2-[bis(2-hydroxyethyl)amino]ethanol;dodecyl hydrogen sulfate,CCCCCCCCCCCCOS(=O)(=O)O.C(CO)N(CCO)CCO,415.6,LLM initial name and weight
+410,353.5,MORPHOLINIUM DODECYL SULFATE,azane;1-(2-ethylhexoxy)-1-oxooctane-2-sulfonic acid,CCCCCCC(C(=O)OCC(CC)CCCC)S(=O)(=O)O.N,353.5,LLM initial name and weight
+411,217.4,DECYLAMMONIUM ACETATE,azanium;dodecanoate,CCCCCCCCCCCC(=O)[O-].[NH4+],217.35,LLM initial name and weight
+412,245.5,DODECYLAMMONIUM ACETATE,acetic acid;dodecan-1-amine,CCCCCCCCCCCCN.CC(=O)O,245.4,LLM initial name and weight
+413,273.5,TETRADECYLAMMONIUM ACETATE,2-[dodecyl(2-hydroxyethyl)amino]ethanol,CCCCCCCCCCCCN(CCO)CCO,273.45,LLM initial name and weight
+414,301.6,HEXADECYLAMMONIUM ACETATE,"(2S,3R)-2-aminooctadecane-1,3-diol",CCCCCCCCCCCCCCCC(C(CO)N)O,301.5,LLM initial name and weight
+415,329.6,OCTADECYLAMMONIUM ACETATE,acetic acid;octadecan-1-amine,CCCCCCCCCCCCCCCCCCN.CC(=O)O,329.6,LLM initial name and weight
+416,314.1,PERFLUORO HEXANOIC ACID,"2,2,3,3,4,4,5,5,6,6,6-undecafluorohexanoic acid",C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)O,314.05,LLM initial name and weight
+417,414.1,PERFLUORO OCTANOIC ACID,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoic acid",C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,414.07,LLM initial name and weight
+418,258.3,SODIUM UNDECYL SULFONATE,sodium;undecane-1-sulfonate,CCCCCCCCCCCS(=O)(=O)[O-].[Na+],258.36,LLM initial name and weight
+419,356.5,SODIUM ALPHA-HEPTYL UNDECYL SULFONATE,sodium;octadecane-1-sulfonate,CCCCCCCCCCCCCCCCCCS(=O)(=O)[O-].[Na+],356.5,LLM initial name and weight
+420,360.6,POTASSIUM 1-1-2-OCTANE TRICARBOXYLATE,N/A,N/A,0,Unknown
+421,416.7,POTASSIUM 1-1-2-DODECANE TRICARBOXYLATE,N/A,N/A,0,Unknown
+422,472.8,POTASSIUM 1-1-2-HEXADECANE TRICARBOXYLATE,N/A,N/A,0,Unknown
+423,174.3,OCTYL/OXYETHYLENE/1 ALCOHOL--OCTYL GLYCOL ETHER HOMOGENEOUS HEAD GROUP,"3,7-dimethyloctane-1,7-diol",CC(CCCC(C)(C)O)CCO,174.28,LLM initial name and weight
+424,204.3,OCTYL ALPHA-GLYCERYL ETHER,"1,3-dibutoxypropan-2-ol",CCCCOCC(COCCCC)O,204.31,LLM initial name and weight
+425,388.6,POTASSIUM 1-1-2-DECANE TRICARBOXYLATE,N/A,N/A,0,Unknown
+426,444.7,POTASSIUM 1-1-2-TETRADECANE TRICARBOXYLATE,N/A,N/A,0,Unknown
+427,384.5,HEXADECYL PYRIDINIUM BROMIDE,1-hexadecylpyridin-1-ium;bromide,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[Br-],384.4,LLM initial name and weight
+428,114,PERFLUORO ACETIC ACID,"2,2,2-trifluoroacetic acid",C(=O)(C(F)(F)F)O,114.02,LLM initial name and weight
+429,164,PERFLUORO PROPIONIO ACID,"2,2,3,3,3-pentafluoropropanoic acid",C(=O)(C(C(F)(F)F)(F)F)O,164.03,LLM initial name and weight
+430,214,PERFLUORO BUTYRIC ACID,"2,2,3,3,4,4,4-heptafluorobutanoic acid",C(=O)(C(C(C(F)(F)F)(F)F)(F)F)O,214.04,LLM initial name and weight
+431,574.9,"TRIDECYL/OXO-PROCESS//OXYETHYLENE/8.5ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+432,641,"TRIDECYL/OxO-PROCESS//OXYETHYLENE/10 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-[2-[2-(2-tridecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,640.9,LLM initial name and weight
+433,861.3,"TRIDECYL/OXO-PROCESS/ /OXYETHYLENE/15 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",N/A,N/A,0,Unknown
+434,1169.7,TRIDECYL/OXO-PROCESS/ /OXYETHYLENE/22 ALCOHOL BRANCHED CHAIN. NATURAL 0E DISTRIBUTION,N/A,N/A,0,Unknown
+435,711.2,OCTADECYL/OXYETHYLENE/10 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+436,1151.8,OCTADECYL/OXYETHYLENE/20 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+437,797.3,OLEYL/CIS-9-OCTADECENOYLA /OXYETHYLENE/12 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+438,973.5,OLEYL/CIS-9-OCTADECENOYL /OXYETHYLENE/16 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+439,1149.7,OLEYL/CIS-9-0CTADECENOYL/ /OXYETHYLENE/20 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+440,522.8,OXYETHYLENE/4 SORBITAN MONOLAURATE ISOMERS AND DISTRIBUTED MULTIPLE 0E CHAINS,N/A,N/A,0,Unknown
+441,699,OXYETHYLENE/8 SORBITAN MONOLAURATE ISOMERS AND DISTRIBUTED MULTIPLE 0E CHAINS,"2-[3,21-dihydroxy-20-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxydocosan-2-yl]oxy-6-(hydroxymethyl)oxane-3,4,5-triol",CC(C(CCCCCCCCCCCCCCCCC(C(C)OC1C(C(C(C(O1)CO)O)O)O)O)OC2C(C(C(C(O2)CO)O)O)O)O,698.9,LLM retried name and weight
+442,787.1,OXYETHYLENE/10 SORBITAN MONOLAURATE ISOMERS AND DISTRIBUTED MULTIPLE 0E CHAINS,N/A,N/A,0,Unknown
+443,1227.7,OXYETHYLENE/20 SORBITAN MONOLAURATE ISOMERS AND DISTRIBUTED MULTIPLE 0E CHAINS,N/A,N/A,0,Unknown
+444,1448,OXYETHYLENE/2 SORBITAN MONOLAURATE ISOMERS AND DISTRIBUTED MULTIPLE 0E CHAINS,N/A,N/A,0,Unknown
+445,292.3,SODIUM PARA-BIS-/N-BUTYL/ BENZENE SULFONATE,sodium;4-octylbenzenesulfonate,CCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],292.37,LLM initial name and weight
+446,348.5,SODIUM PARA-BIS-/N-HEXYL/ BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+447,404.6,SODIUM PARA-BIS-/N-OCTYL/ BENZENE SULFONATE,sodium;4-hexadecan-8-ylbenzenesulfonate,CCCCCCCCC(CCCCCCC)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],404.6,LLM initial name and weight
+448,306.5,SODIUM OCTADECANOATE /STEARATE/,sodium;octadecanoate,CCCCCCCCCCCCCCCCCC(=O)[O-].[Na+],306.5,LLM initial name and weight
+449,235.9,DODECYLMETHYL AMMONIUM CHLORIDE,tributyl(methyl)azanium;chloride,CCCC[N+](C)(CCCC)CCCC.[Cl-],235.84,LLM initial name and weight
+450,249.9,DODECYLDIMETHYL AMMONIUM CHLORIDE,"N,N-dimethyldodecan-1-amine;hydrochloride",CCCCCCCCCCCCN(C)C.Cl,249.86,LLM initial name and weight
+451,448.1,PARA DI-ISOBUTYLPHENOXYETHOXYETHYL DIMETHYLBENZYL AMMONIUM CHLORIDE /HYAMINE 1622/,"benzyl-dimethyl-[2-[2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethoxy]ethyl]azanium;chloride",CC(C)(C)CC(C)(C)C1=CC=C(C=C1)OCCOCC[N+](C)(C)CC2=CC=CC=C2.[Cl-],448.1,LLM initial name and weight
+452,246.9,DICHLOROPERFLUORO BUTYRIC/KEL-F/ACID,N/A,N/A,0,Unknown
+453,363.4,TRICHLOROPERFLUORO HEXANOIC/KEL-F/ACID,N/A,N/A,0,Unknown
+454,479.9,TETRACHLOROPERFLUORO OCTANOIC/KEL-F/ACID,N/A,N/A,0,Unknown
+455,514.1,PERFLUORO DECANOIC ACID,"2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluorodecanoic acid",C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,514.08,LLM retried name and weight
+456,452.2,POTASSIUM PERFLUORO OCTANOATE,"potassium;2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-pentadecafluorooctanoate",C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)[O-].[K+],452.16,LLM initial name and weight
+457,118.2,HEXANEDIOL,"2-methylpentane-2,4-diol",CC(CC(C)(C)O)O,118.17,LLM initial name and weight
+458,347.3,DECYL PYRIDINIUM IODIDE,1-decylpyridin-1-ium;iodide,CCCCCCCCCC[N+]1=CC=CC=C1.[I-],347.28,LLM initial name and weight
+459,0,ALKYL/15-17/ /OXYETHYLENE/ /19-23/ALCHOL /CETOMACROGOL 1000/,N/A,N/A,0,Unknown
+460,356.5,DODECYL TROPYLIUM MONOPHOSPHATE,"2,6-ditert-butyl-4-(diethoxyphosphorylmethyl)phenol",CCOP(=O)(CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C)OCC,356.4,LLM initial name and weight
+461,118.2,BUTYL/OXYETHYLENE/1 ALCOHOL--BUTYL GLYCOL ETHER HOMOGENEOUS HEAD GROUP,"2-methylpentane-2,4-diol",CC(CC(C)(C)O)O,118.17,LLM initial name and weight
+462,376.4,SODIUM MONOLAURIN SULFATE,"sodium;1-(2,3-dihydroxypropoxy)-1-oxododecane-2-sulfonate",CCCCCCCCCCC(C(=O)OCC(CO)O)S(=O)(=O)[O-].[Na+],376.4,Found by mass lookup
+463,705,NONYL BENZENE/OXYETHYLENE/11 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(4-nonylphenoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCC1=CC=C(C=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,704.9,Found by mass lookup
+464,881.3,NONYL BENZENE/OXYETHYLENE/15 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+465,596.9,TRIDECYL/OXYETHYLENE/9 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-[2-(11-methyldodecoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CC(C)CCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,596.8,LLM initial name and weight
+466,596.9,TRIDECYL/SECONDARY/ /OXYETHYLENE/9 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-[2-(11-methyldodecoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CC(C)CCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,596.8,LLM initial name and weight
+467,729.1,TRIDECYL/SECONDARY//OXYETHYLENE/12 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(11-methyldodecoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CC(C)CCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,729,LLM initial name and weight
+468,459.6,DODECYL/OXYETHYLENE/6.2 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+469,521.2,DODECYL/OXYETHYLENE/7.6 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+470,653.4,DODECYL/OXYETHYLENE/10.6 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+471,882.5,DODECYL/OXYETHYLENE/15.8 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+472,1085.2,DODECYL/OXYETHYLENE/20.4 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+473,1380.4,DODECYL/OXYETHYLENE/27.1 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+474,1887.1,DODECYL/OXYETHYLENE/38.6 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+475,3151.6,DODECYL/OXYETHYLENE/67.3 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+476,166.2,SODIUM OCTANOATE,sodium;2-propylpentanoate,CCCC(CCC)C(=O)[O-].[Na+],166.19,LLM initial name and weight
+477,392.6,OCTADECYL TRIMETHYLAMMONIUM BROMIDE,trimethyl(octadecyl)azanium;bromide,CCCCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-],392.5,LLM initial name and weight
+478,378.6,HEXADECYL DIMETHYLETHYLAMMONIUM BROMIDE,ethyl-hexadecyl-dimethylazanium;bromide,CCCCCCCCCCCCCCCC[N+](C)(C)CC.[Br-],378.5,LLM initial name and weight
+479,403.4,TETRADECYL PYRIDINIUM IODIDE,benzyl(tributyl)azanium;iodide,CCCC[N+](CCCC)(CCCC)CC1=CC=CC=C1.[I-],403.4,LLM initial name and weight
+480,431.5,HEXADECYL PYRIDINIUM IODIDE,1-hexadecylpyridin-1-ium;iodide,CCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[I-],431.4,LLM initial name and weight
+481,459.6,OCTADECYL PYRIDINIUM IODIDE,benzyl-dimethyl-tetradecylazanium;iodide,CCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[I-],459.5,LLM initial name and weight
+482,248.4,DODECYL AMMONIUM NITRATE,2-(2-aminoethylamino)ethanol;octanoic acid,CCCCCCCC(=O)O.C(CNCCO)N,248.36,LLM retried name and weight
+483,306,DIOCTYL DIMETHYL AMMONIUM CHLORIDE,dimethyl(dioctyl)azanium;chloride,CCCCCCCC[N+](C)(C)CCCCCCCC.[Cl-],306,LLM initial name and weight
+484,124.1,SODIUM PENTANOATE/VALERATE/,sodium;pentanoate,CCCCC(=O)[O-].[Na+],124.11,LLM initial name and weight
+485,138.2,SODIUM HEXANOATE/CAPROATE/,"sodium;2,2-dimethylbutanoate",CCC(C)(C)C(=O)[O-].[Na+],138.14,LLM initial name and weight
+486,152.2,SODIUM HEPTANOATE,sodium;heptanoate,CCCCCCC(=O)[O-].[Na+],152.17,LLM initial name and weight
+487,180.2,SODIUM NONANOATE,sodium;nonanoate,CCCCCCCCC(=O)[O-].[Na+],180.22,LLM initial name and weight
+488,494.8,DODECYL/OXYETHYLENE/7 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCO,494.7,LLM initial name and weight
+489,582.9,DODECYL/OXYETHYLENE/9 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,582.8,LLM initial name and weight
+490,715.1,DODECYL/OXYETHYLENE/12 ALCOHOL HOMOGENEOUS HEAD GROUP,2-[2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,715,LLM initial name and weight
+491,356.5,DODECYL TROPYLIUM BISULFATE,"3,4-dimethoxy-5-methyl-6-(10-methylsulfanyldecyl)pyran-2-one",CC1=C(OC(=O)C(=C1OC)OC)CCCCCCCCCCSC,356.5,LLM initial name and weight
+492,348.5,SODIUM TETRAPROPYLENE/1-3-5-7-TETRAMETHYL-OCTY) BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,Found by mass lookup
+493,306.4,SODIUM P-NONYL BENZENE SULFONATE,sodium;2-nonylbenzenesulfonate,CCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],306.4,LLM initial name and weight
+494,0,POTASSIUM DILINOLEATE,"dipotassium;(9Z,12Z)-octadeca-9,12-dienoate",CCCCCC=CCC=CCCCCCCCC(=O)[O-].CCCCCC=CCC=CCCCCCCCC(=O)[O-].[K+].[K+],637.1,PubChem name
+495,524.7,SUCROSE MONOLAURATE,"[(2S,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] dodecanoate",CCCCCCCCCCCC(=O)OC1(C(C(C(C(O1)CO)O)O)O)C2(C(C(C(O2)CO)O)O)CO,524.6,LLM initial name and weight
+496,608.9,SUCROSE MONOSTEARATE,"[(2S,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)-2-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxolan-2-yl]methyl octadecanoate",CCCCCCCCCCCCCCCCCC(=O)OCC1(C(C(C(O1)CO)O)O)OC2C(C(C(C(O2)CO)O)O)O,608.8,LLM initial name and weight
+497,552.7,SUCROSE MONOMYRISTATE,"[(2S,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] tetradecanoate",CCCCCCCCCCCCCC(=O)OC1(C(C(C(C(O1)CO)O)O)O)C2(C(C(C(O2)CO)O)O)CO,552.7,LLM initial name and weight
+498,580.8,SUCROSE MONOPALMITATE,"[(2R,3S,4S,5R,6R)-6-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-3,4,5-trihydroxyoxan-2-yl]methyl hexadecanoate",CCCCCCCCCCCCCCCC(=O)OCC1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)CO)O)O)O,580.7,LLM initial name and weight
+499,819.3,SUCROSE DI-PALMITATE,N/A,N/A,0,Unknown
+500,354,DODECYL TRI/2-HYDROXYETHYL/AMMONIUM CHLORIDE,"(2S,3S,4R)-2-aminooctadecane-1,3,4-triol;hydrochloride",CCCCCCCCCCCCCCC(C(C(CO)N)O)O.Cl,354,LLM initial name and weight
+501,264.3,SODIUM HEXYL BENZENE SULFONATE,"sodium;2,3-di(propan-2-yl)benzenesulfonate",CC(C)C1=C(C(=CC=C1)S(=O)(=O)[O-])C(C)C.[Na+],264.32,LLM initial name and weight
+502,278.3,SODIUM HEPTYL BENZENE SULFONATE,sodium;2-(5-methylhexyl)benzenesulfonate,CC(C)CCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],278.34,LLM initial name and weight
+503,292.3,SODIUM OCTYL BENZENE SULFONATE,sodium;4-octylbenzenesulfonate,CCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],292.37,LLM initial name and weight
+504,306.4,SODTUM NONYL BENZENE SULFONATE,sodium;2-nonylbenzenesulfonate,CCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],306.4,LLM initial name and weight
+505,320.4,SODIUM DECYL BENZENE SULFONATE,sodium;4-decylbenzenesulfonate,CCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],320.4,LLM initial name and weight
+506,348.5,SODIUM DODECYL BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+507,376.5,SODIUM TETRADECYL BENZENE SULFONATE,sodium;4-tetradecylbenzenesulfonate,CCCCCCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],376.5,LLM initial name and weight
+508,404.6,SODIUM HEXADECYL BENZENE SULFONATE,sodium;4-hexadecan-8-ylbenzenesulfonate,CCCCCCCCC(CCCCCCC)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],404.6,LLM initial name and weight
+509,432.6,SODTUM OCTADECYL BENZENE SULFONATE,sodium;2-octadecylbenzenesulfonate,CCCCCCCCCCCCCCCCCCC1=CC=CC=C1S(=O)(=O)[O-].[Na+],432.6,LLM initial name and weight
+510,292.3,SODIUM 2-ETHYL-HEXYL BENZENE SULFONATE,sodium;4-octylbenzenesulfonate,CCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],292.37,LLM initial name and weight
+511,320.4,SODIUM 2-PROPYL-HEPTYL BENZENE SULFONATE,sodium;4-decylbenzenesulfonate,CCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],320.4,LLM initial name and weight
+512,348.5,SODIUM 2-BUTYL-OCTYL BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+513,376.5,SODIUM 2-AMYL-NONYL BENZENE SULFONATE,sodium;4-tetradecylbenzenesulfonate,CCCCCCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],376.5,LLM initial name and weight
+514,348.5,SODIUM 6-N-DODECYL BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+515,306.5,IS0-OCTYL/OXYETHYLENE/4 ALCOHOL BRANCHED CHAIN NATURAL 0E DISTRIBUTION,2-[2-[2-(2-octoxyethoxy)ethoxy]ethoxy]ethanol,CCCCCCCCOCCOCCOCCOCCO,306.44,LLM initial name and weight
+516,320.5,"NONYL/OXYETHYLENE/4 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION","propane-1,2,3-triol;tetradecanoic acid",CCCCCCCCCCCCCC(=O)O.C(C(CO)O)O,320.5,LLM initial name and weight
+517,598.9,DECYL/OXO-PROCESS/ /OXYETHYLENE/10 ALCOHOL BRANCHED CHAIN NATURAL 0E DISTRIBUTION,"dodecanoic acid;2-ethylhexanoic acid;2-[[3-hydroxy-2,2-bis(hydroxymethyl)propoxy]methyl]-2-(hydroxymethyl)propane-1,3-diol",CCCCCCCCCCCC(=O)O.CCCCC(CC)C(=O)O.C(C(CO)(CO)COCC(CO)(CO)CO)O,598.8,LLM initial name and weight
+518,450.7,"TRIMETHYLNONYL/OXYETHYLENE/6 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCO,450.6,LLM initial name and weight
+519,334.6,DECYL/OX0-PROCESS/ /OXYETHYLENE/4 ALCOHOL BRANCHED CHAIN NATURAL 0E DISTRIBUTION,2-[2-[2-(2-decoxyethoxy)ethoxy]ethoxy]ethanol,CCCCCCCCCCOCCOCCOCCOCCO,334.5,LLM initial name and weight
+520,524.8,UNDECYL/OXYETHYLENE/8 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,2-[2-[2-[2-[2-[2-[2-(2-undecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCO,524.7,LLM initial name and weight
+521,641,"TRIDECYL/OXYETHYLENE/10 ALCOHOL BRANCHED CHAIN, NATURAL 0E DISTRIBUTION",2-[2-[2-[2-[2-[2-[2-[2-[2-(2-tridecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol,CCCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO,640.9,LLM initial name and weight
+522,727.9,DECYL BENZENE ORTHO/OXYETHYLENE/11.2 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+523,719.1,DECYL BENZENE PARA/OXYETHYLENE/11.0 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"2-[2-[2-[2-[2-[2-[2-[2-[2-[2-(2,3-dipentylphenoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol;oxirane",CCCCCC1=C(C(=CC=C1)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO)CCCCC.C1CO1,719,LLM initial name and weight
+524,859.3,HEXADECYL/OXYETHYLENE/14 ALCOHOL BRANCHED CHAIN NATURAL 0E DISTRIBUTION,N/A,N/A,0,Unknown
+525,316.4,SODIUM TETRADECYL 6-SULFATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+526,316.4,SODIUM 2-DI-N-HEXYL ETHYL SULFATE,sodium;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Na+],316.43,LLM initial name and weight
+527,222.3,SODIUM UNDECANE-3-CARBOXYLATE,sodium;dodecanoate,CCCCCCCCCCCC(=O)[O-].[Na+],222.3,LLM initial name and weight
+528,358.9,DODECYL TROPYLIUM PERCHLORATE,"(2R,3R)-5-chloro-3-ethyl-2-[(E,2R,3S,4R,5S)-2-hydroxy-4-methoxy-3,5-dimethylnon-7-enyl]-2,3-dihydropyran-6-one",CCC1C=C(C(=O)OC1CC(C(C)C(C(C)CC=CC)OC)O)Cl,358.9,LLM initial name and weight
+529,144.2,OCTANOIC ACID,octanoic acid,CCCCCCCC(=O)O,144.21,LLM initial name and weight
+530,172.3,DECANOIC ACID,decanoic acid,CCCCCCCCCC(=O)O,172.26,LLM initial name and weight
+531,200.4,DODECANOIC ACID,dodecanoic acid,CCCCCCCCCCCC(=O)O,200.32,LLM initial name and weight
+532,228.4,TETRADECANOIC ACID,tetradecanoic acid,CCCCCCCCCCCCCC(=O)O,228.37,LLM initial name and weight
+533,256.5,HEXADECANOIC ACID,hexadecanoic acid,CCCCCCCCCCCCCCCC(=O)O,256.42,LLM initial name and weight
+534,284.5,OCTADECANOIC ACID,octadecanoic acid,CCCCCCCCCCCCCCCCCC(=O)O,284.5,LLM initial name and weight
+535,1035.6,HEXADECYL/OXYETHYLENE/18 ALCOHOL,N/A,N/A,0,Unknown
+536,208.3,NONYL SULFONIC ACID,methyl octane-1-sulfonate,CCCCCCCCS(=O)(=O)OC,208.32,LLM initial name and weight
+537,236.4,UNDECYL SULFONIC ACID,decyl methanesulfonate,CCCCCCCCCCOS(=O)(=O)C,236.37,LLM initial name and weight
+538,0,PLURONIC L62,2-methyloxirane;oxirane,CC1CO1.C1CO1,102.13,PubChem name
+539,0,RENEX 698,N/A,N/A,0,Unknown
+540,0,SIPONIO BC,N/A,N/A,0,Unknown
+541,332.4,SODIUM DODECYL MONO-OXYETHYLENE SULFATE,sodium;2-dodecoxyethyl sulfate,CCCCCCCCCCCCOCCOS(=O)(=O)[O-].[Na+],332.43,LLM initial name and weight
+542,376.5,SODIUM DODECYL DIOXYETHYLENE SULFATE,sodium;2-(2-dodecoxyethoxy)ethyl sulfate,CCCCCCCCCCCCOCCOCCOS(=O)(=O)[O-].[Na+],376.5,LLM initial name and weight
+543,464.6,SODIUM DODECYL TETRA-0XYETHYLENE SULFATE,sodium;2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethyl sulfate,CCCCCCCCCCCCOCCOCCOCCOCCOS(=O)(=O)[O-].[Na+],464.6,LLM initial name and weight
+544,360.5,SODIUM TETRADECYL MONO-OXYETHYLENE SULFATE,sodium;2-tetradecoxyethyl sulfate,CCCCCCCCCCCCCCOCCOS(=O)(=O)[O-].[Na+],360.5,LLM initial name and weight
+545,404.5,SODIUM TETRADECYL DI-0XYETHYLENE SULFATE,sodium;2-(2-tetradecoxyethoxy)ethyl sulfate,CCCCCCCCCCCCCCOCCOCCOS(=O)(=O)[O-].[Na+],404.5,LLM initial name and weight
+546,448.6,SODIUM TETRADECYL TRI-0XYETHYLENE SULFATE,sodium;2-[2-(2-tetradecoxyethoxy)ethoxy]ethyl sulfate,CCCCCCCCCCCCCCOCCOCCOCCOS(=O)(=O)[O-].[Na+],448.6,LLM initial name and weight
+547,414.6,SODIUM OLEYL MONO-OXYETHYLENE SULFATE,sodium;2-octadecoxy-2-oxoethanesulfonate,CCCCCCCCCCCCCCCCCCOC(=O)CS(=O)(=O)[O-].[Na+],414.6,LLM retried name and weight
+548,458.6,SODIUM OLEYL DI-0XYETHYLENE SULFATE,sodium;[18-(2-methylpropoxy)-18-oxooctadecan-9-yl] sulfate,CCCCCCCCC(CCCCCCCCC(=O)OCC(C)C)OS(=O)(=O)[O-].[Na+],458.6,LLM initial name and weight
+549,502.7,SODIUM OLEYL TRI-0XYETHYLENE SULFATE,sodium;4-dodecoxy-4-oxo-3-sulfobutanoate;3-methylheptane,CCCCCCCCCCCCOC(=O)C(CC(=O)[O-])S(=O)(=O)O.CCCCC(C)CC.[Na+],502.7,LLM initial name and weight
+550,0,LAURIC ACID DIETHANOLAMINE CONDENSATE,"N,N-bis(2-hydroxyethyl)dodecanamide",CCCCCCCCCCCC(=O)N(CCO)CCO,287.44,PubChem name
+551,440.6,PHENYL SULFOSTEARIC ACID,2-(2-sulfophenyl)octadecanoic acid,CCCCCCCCCCCCCCCCC(C1=CC=CC=C1S(=O)(=O)O)C(=O)O,440.6,LLM initial name and weight
+552,454.7,TOLYL SULFOSTEARIC ACID,"(4R)-4-[(3R,5R,8R,9S,10S,13R,14S,17R)-10,13-dimethyl-3-methylsulfonyloxy-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid",CC(CCC(=O)O)C1CCC2C1(CCC3C2CCC4C3(CCC(C4)OS(=O)(=O)C)C)C,454.7,LLM initial name and weight
+553,468.7,XYLYL SULFOSTEARIC ACID,"2-(2,3-dimethylphenyl)-2-sulfooctadecanoic acid",CCCCCCCCCCCCCCCCC(C1=CC=CC(=C1C)C)(C(=O)O)S(=O)(=O)O,468.7,LLM initial name and weight
+554,348.5,SANTOMERSE 3 /SODIUM DODECYL BENZENE SULFONATE/,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+555,0,TERGITOL TMN,N/A,N/A,0,Unknown
+556,328.3,ARESKAP 100 /MONOBUTYL PHENYLPHENOL SODIUM MONOSULFONATE/,sodium;3-butyl-2-hydroxy-6-phenylbenzenesulfonate,CCCCC1=C(C(=C(C=C1)C2=CC=CC=C2)S(=O)(=O)[O-])O.[Na+],328.4,LLM initial name and weight
+557,312.3,ARESKET 300 /MONOBUTYL BIPHENYL SODIUM MONOSULFONATE/,sodium;2-butyl-6-phenylbenzenesulfonate,CCCCC1=C(C(=CC=C1)C2=CC=CC=C2)S(=O)(=O)[O-].[Na+],312.4,LLM initial name and weight
+558,486.4,ARESKLENE 400 /DIBUTYL PHENYLPHENOL DISODIUMDISULFONATE,N/A,N/A,0,Unknown
+559,0,"CATOL 605 /(N-(2-KET0-2-(2,-LAUROYL OXYETHYLAMINO) ETHYL) TRIMETHYLAMMONIUM CHLORIDE/",N/A,N/A,0,Unknown
+560,0,"EMULSOL 607L N-(2-KET0-2-(2,-LAUROYLOXETHYL AMINO) ETHYL) PYRIDINIUM CHLORIDE",N/A,N/A,0,Unknown
+561,320.4,SANTOMERSE D /SODIUM DECYLBENZENE SULFONATE/,sodium;4-decylbenzenesulfonate,CCCCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],320.4,LLM initial name and weight
+562,286.3,SODIUM DODECENYL SULFATE,sodium;cyclododecyl sulfate,C1CCCCCC(CCCCC1)OS(=O)(=O)[O-].[Na+],286.37,LLM initial name and weight
+563,0,ZEPHIRAN /COCONUT DIMETHYLBENZYL AMMONIUM CHLORIDE/,N/A,N/A,0,Unknown
+564,0,NA 0SR,N/A,N/A,0,Unknown
+565,0,DAXAD 11,N/A,N/A,0,Unknown
+566,0,AQUAREX D,N/A,N/A,0,Unknown
+567,0,SA-178,N/A,N/A,0,Unknown
+568,555.1,MAGNESIUM DODECYL SULFATE,magnesium;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCOS(=O)(=O)[O-].[Mg+2],555.1,Found by mass lookup
+569,618.4,STRONTIUM DODECYL SULFATE,strontium;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCOS(=O)(=O)[O-].[Sr+2],618.4,Found by mass lookup
+570,737.9,LEAD DODECYL SULFATE,bis(dodecoxysulfonyloxy)lead,CCCCCCCCCCCCOS(=O)(=O)O[Pb]OS(=O)(=O)OCCCCCCCCCCCC,738,Found by mass lookup
+571,585.7,MANGANESE DODECYL SULFATE,dodecyl sulfate;manganese(2+),CCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCOS(=O)(=O)[O-].[Mn+2],585.7,Found by mass lookup
+572,589.7,COBALTOUS DODECYL SULFATE,cobalt(2+);dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCOS(=O)(=O)[O-].[Co+2],589.7,Found by mass lookup
+573,594.3,CUPRIC DODECYL SULFATE,copper;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCOS(=O)(=O)[O-].[Cu+2],594.3,Found by mass lookup
+574,596.1,ZINC DODECYL SULFATE,zinc;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCOS(=O)(=O)[O-].[Zn+2],596.2,Found by mass lookup
+575,589.5,NICKEL DODECYL SULFATE,dodecyl sulfate;nickel(2+),CCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCOS(=O)(=O)[O-].[Ni+2],589.5,Found by mass lookup
+576,650.4,CUPRIC TETRADECYL SULFATE,copper;tetradecyl sulfate,CCCCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCCCOS(=O)(=O)[O-].[Cu+2],650.4,Found by mass lookup
+577,706.5,CUPRIC HEXADECYL SULFATE,copper;hexadecyl sulfate,CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].CCCCCCCCCCCCCCCCOS(=O)(=O)[O-].[Cu+2],706.5,Found by mass lookup
+578,710.6,METHYL /OXYETHYLENE/ 11.9 DECANDATE REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+579,765.1,METHYL /OXYETHYLENE/ 12.5 DODECANOATE REDUCED POLYDISPERSITY OF HEAD GROUPS,"[2-[[2-[[2,2-bis(hydroxymethyl)-3-octanoyloxypropoxy]methyl]-3-hydroxy-2-(hydroxymethyl)propoxy]methyl]-2-(heptanoyloxymethyl)-3-hydroxypropyl] decanoate",CCCCCCCCCC(=O)OCC(CO)(COCC(CO)(CO)COCC(CO)(CO)COC(=O)CCCCCCC)COC(=O)CCCCCC,765,Found by mass lookup
+580,494.7,METHYL /OXYETHYLENE/ 7.0 DECANOATE REDUCED POLYDISPERSITY OF HEAD GROUPS,"2,2,3,3,4,4,5-heptahydroxypentacosanoic acid",CCCCCCCCCCCCCCCCCCCCC(C(C(C(C(=O)O)(O)O)(O)O)(O)O)O,494.7,Found by mass lookup
+581,640.1,METHYL /OXYETHYLENE/ 10.3 DECANOATE REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+582,891.3,METHYL /OXYETHYLENE/ 16.0 DECANOATE NATURAL DISTRIBUTION OF HEAD GROUPS,N/A,N/A,0,Unknown
+583,478.7,METHYL /OXYETHYLENE/ 6.0 DODECANOATE REDUCED POLYDISPERSITY OF HEAD GROUPS,2-[2-[2-[2-[2-(2-tridecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]acetic acid,CCCCCCCCCCCCCOCCOCCOCCOCCOCCOCC(=O)O,478.7,Found by mass lookup
+584,584.5,METHYL /OXYETHYLENE/ 8.4 DODECANOATE REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+585,707.9,METHYL /OXYETHYLENE/ 11.2 DODECANOATE REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+586,493.1,METHYL /OXYETHYLENE/ 7.6 OCTANOATE REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+587,307.5,DECYL IDIMETHYLAMMONIOPROPANE SULFONATE,3-[decyl(dimethyl)azaniumyl]propane-1-sulfonate,CCCCCCCCCC[N+](C)(C)CCCS(=O)(=O)[O-],307.5,LLM initial name and weight
+588,335.6,DODECYL DIMETHYLAMMONIOPROPANE SULFONATE,3-[dodecyl(dimethyl)azaniumyl]propane-1-sulfonate,CCCCCCCCCCCC[N+](C)(C)CCCS(=O)(=O)[O-],335.5,LLM initial name and weight
+589,391.7,HEXADECYLDIMETHYLAMMONIOPROPANE SULFONATE,3-[hexadecyl(dimethyl)azaniumyl]propane-1-sulfonate,CCCCCCCCCCCCCCCC[N+](C)(C)CCCS(=O)(=O)[O-],391.7,LLM initial name and weight
+590,299.6,DODECYL DIMETHYLAMMONIOPROPANE CARBOXYLATE,N/A,N/A,0,Unknown
+591,352.5,DODECYL DIMETHYLPHOSPHONIOPROPANE SULFONATE,3-[dodecyl(dimethyl)phosphaniumyl]propane-1-sulfonate,CCCCCCCCCCCC[P+](C)(C)CCCS(=O)(=O)[O-],352.5,LLM initial name and weight
+592,299.6,DODECYL N-DIETHYL N-BETAINE,N-(2-hydroxyethyl)hexadecanamide,CCCCCCCCCCCCCCCC(=O)NCCO,299.5,LLM initial name and weight
+593,351.6,DIMETHYL DODECYLAMMONIOPROPANE HYDROXY SULFONATE,3-[dodecyl(dimethyl)azaniumyl]-2-hydroxypropane-1-sulfonate,CCCCCCCCCCCC[N+](C)(C)CC(CS(=O)(=O)[O-])O,351.5,LLM initial name and weight
+594,391.7,DODECYL DIPROPYL AMMONIOPROPANE SULFONATE,3-[hexadecyl(dimethyl)azaniumyl]propane-1-sulfonate,CCCCCCCCCCCCCCCC[N+](C)(C)CCCS(=O)(=O)[O-],391.7,LLM initial name and weight
+595,351.6,DODECYL DIMETHYL AMMONIOPROPANE SULFATE,3-[dodecyl(dimethyl)azaniumyl]-2-hydroxypropane-1-sulfonate,CCCCCCCCCCCC[N+](C)(C)CC(CS(=O)(=O)[O-])O,351.5,LLM initial name and weight
+596,353.6,TETRAHYDROANACARDOL AMMONIUM MONOSULFONATE,"3-(dimethylamino)-1-(4-hexylsulfonyl-2,6-dimethylphenyl)propan-1-one",CCCCCCS(=O)(=O)C1=CC(=C(C(=C1)C)C(=O)CCN(C)C)C,353.5,Found by mass lookup
+597,346.5,SODIUM DODECYL MONO-0XYPROPYL SULFATE,sodium;2-tridecoxyethyl sulfate,CCCCCCCCCCCCCOCCOS(=O)(=O)[O-].[Na+],346.5,LLM initial name and weight
+598,374.5,SODIUM TETRADECYL MONO-OXYPROPYL SULFATE,sodium;butyl sulfate;oxacyclotetradecane,CCCCOS(=O)(=O)[O-].C1CCCCCCOCCCCCC1.[Na+],374.5,LLM initial name and weight
+599,432.6,SODIUM TETRADECYL DI-0XYPROPYL SULFATE,sodium;2-(2-hexadecoxyethoxy)ethyl sulfate,CCCCCCCCCCCCCCCCOCCOCCOS(=O)(=O)[O-].[Na+],432.6,LLM initial name and weight
+600,402.6,SODIUM HEXADECYL MONO-0XYPROPYL SULFATE,"sodium;1,3-bis(2-ethylhexoxy)propane-2-sulfonate",CCCCC(CC)COCC(COCC(CC)CCCC)S(=O)(=O)[O-].[Na+],402.6,LLM initial name and weight
+601,430.6,SODIUM OCTADECYL MONO-0XYPROPYL SULFATE,sodium;3-hydroxy-2-octadecan-2-yloxypropane-1-sulfonate,CCCCCCCCCCCCCCCCC(C)OC(CO)CS(=O)(=O)[O-].[Na+],430.6,LLM initial name and weight
+602,280.4,ALPHA SULFO LAURIC ACID,2-sulfododecanoic acid,CCCCCCCCCCC(C(=O)O)S(=O)(=O)O,280.38,LLM initial name and weight
+603,344.4,SODIUM PROPYL ALPHA SULFO LAURATE,sodium;2-dodecanoyloxypropane-1-sulfonate,CCCCCCCCCCCC(=O)OC(C)CS(=O)(=O)[O-].[Na+],344.4,LLM initial name and weight
+604,344.4,SODIUM METHYL ALPHA SULFO MYRISTATE,sodium;2-dodecanoyloxypropane-1-sulfonate,CCCCCCCCCCCC(=O)OC(C)CS(=O)(=O)[O-].[Na+],344.4,LLM initial name and weight
+605,330.4,SODIUM AMYL ALPHAPHOSPHONO PELARGONATE,sodium;2-(1-phosphonoethyl)dodecanoate,CCCCCCCCCCC(C(C)P(=O)(O)O)C(=O)[O-].[Na+],330.33,LLM initial name and weight
+606,344.4,SODIUM AMYL ALPHAPHOSPHONO CAPRATE,sodium;2-methyl-2-phosphonotetradecanoate,CCCCCCCCCCCCC(C)(C(=O)[O-])P(=O)(O)O.[Na+],344.36,LLM initial name and weight
+607,344.4,SODIUM ISOPROPYL ALPHAPHOSPHONO LAURATE,sodium;2-methyl-2-phosphonotetradecanoate,CCCCCCCCCCCCC(C)(C(=O)[O-])P(=O)(O)O.[Na+],344.36,LLM initial name and weight
+608,344.4,SODIUM METHYL ALPHAPHOSPHONO MYRISTATE,sodium;2-methyl-2-phosphonotetradecanoate,CCCCCCCCCCCCC(C)(C(=O)[O-])P(=O)(O)O.[Na+],344.36,LLM initial name and weight
+609,400.5,SODIUM ISOPROPYL ALPHAPHOSPHONO PALMITATE,sodium;2-hexyldecyl oxiran-2-ylmethyl phosphate,CCCCCCCCC(CCCCCC)COP(=O)([O-])OCC1CO1.[Na+],400.5,LLM initial name and weight
+610,400.5,SODIUM METHYL ALPHAPHOSPHONO STEARATE,sodium;2-hexyldecyl oxiran-2-ylmethyl phosphate,CCCCCCCCC(CCCCCC)COP(=O)([O-])OCC1CO1.[Na+],400.5,LLM initial name and weight
+611,238.2,ALPHAPHOSPHONO PELARGONIC ACID,ethyl 2-diethoxyphosphorylpropanoate,CCOC(=O)C(C)P(=O)(OCC)OCC,238.22,LLM initial name and weight
+612,252.3,ALPHAPHOSPHONO DECANOIO ACID,ethyl 2-diethoxyphosphorylbutanoate,CCC(C(=O)OCC)P(=O)(OCC)OCC,252.24,LLM initial name and weight
+613,280.3,ALPHAPHOSPHONO DODECANOIO ACID,ethyl 2-diethoxyphosphorylhexanoate,CCCCC(C(=O)OCC)P(=O)(OCC)OCC,280.3,LLM initial name and weight
+614,308.4,ALPHAPHOSPHONO TETRADECANOIO ACID,2-(3-dibutoxyphosphorylpropoxymethyl)oxirane,CCCCOP(=O)(CCCOCC1CO1)OCCCC,308.35,LLM initial name and weight
+615,336.5,ALPHAPHOSPHONO HEXADECANOIO ACID,phosphono hexadecanoate,CCCCCCCCCCCCCCCC(=O)OP(=O)(O)O,336.4,LLM initial name and weight
+616,274.3,MONOSODIUM ALPHAPHOSPHONO DECANOATE,sodium;(E)-2-diethoxyphosphoryl-1-ethoxybut-1-en-1-olate,CCC(=C([O-])OCC)P(=O)(OCC)OCC.[Na+],274.23,LLM initial name and weight
+617,302.3,MONOSODIUM ALPHAPHOSPHONO DODECANOATE,sodium;ethyl 2-diethoxyphosphorylhex-5-enoate;hydride,[H-].CCOC(=O)C(CCC=C)P(=O)(OCC)OCC.[Na+],302.28,LLM initial name and weight
+618,330.4,MONOSODIUM ALPHAPHOSPHONO TETRADECANOATE,sodium;2-(1-phosphonoethyl)dodecanoate,CCCCCCCCCCC(C(C)P(=O)(O)O)C(=O)[O-].[Na+],330.33,LLM initial name and weight
+619,358.4,MONOSODIUM ALPHAPHOSPHONO HEXADECANOATE,sodium;methoxy(tetradecoxycarbonyl)phosphinate,CCCCCCCCCCCCCCOC(=O)P(=O)([O-])OC.[Na+],358.39,LLM initial name and weight
+620,324.3,DISODIUM ALPHAPHOSPHONO DODECANOATE,disodium;dodecanoyl phosphate,CCCCCCCCCCCC(=O)OP(=O)([O-])[O-].[Na+].[Na+],324.26,LLM initial name and weight
+621,352.4,DISODIUM ALPHAPHOSPHONO TETRADECANOATE,disodium;decyl 3-phosphonatobutanoate,CCCCCCCCCCOC(=O)CC(C)P(=O)([O-])[O-].[Na+].[Na+],352.31,LLM initial name and weight
+622,380.4,DISODIUM ALPHAPHOSPHONO HEXADECANOATE,disodium;dodecyl 3-phosphonatobutanoate,CCCCCCCCCCCCOC(=O)CC(C)P(=O)([O-])[O-].[Na+].[Na+],380.37,LLM initial name and weight
+623,408.5,DISODIUM ALPHAPHOSPHONO OCTADECANOATE,disodium;18-oxooctadecyl phosphate,C(CCCCCCCCC=O)CCCCCCCCOP(=O)([O-])[O-].[Na+].[Na+],408.4,LLM initial name and weight
+624,374.3,TRISODIUM ALPHAPHOSPHONO TETRADECANOATE,N/A,N/A,0,Unknown
+625,402.4,TRISODIUM ALPHAPHOSPHONO HEXADECANOATE,N/A,N/A,0,Unknown
+626,430.5,TRISODIUM ALPHAPHOSPHONO OCTADECANOATE,N/A,N/A,0,Unknown
+627,332.2,CESIUM DODECANOATE,cesium;dodecanoate,CCCCCCCCCCCC(=O)[O-].[Cs+],332.21,LLM initial name and weight
+628,266.3,DODECYLAMMONIUM BROMIDE,trimethyl(nonyl)azanium;bromide,CCCCCCCCC[N+](C)(C)C.[Br-],266.26,LLM initial name and weight
+629,320.6,POTASSIUM ELAIDATE/TRANS-9-OCTADECENOATE/,potassium;(Z)-octadec-9-enoate,CCCCCCCCC=CCCCCCCCC(=O)[O-].[K+],320.6,LLM initial name and weight
+630,336.6,POTASSIUM RICINOLEATE/12 HYDROXY OLEATE/,"potassium;(Z,12R)-12-hydroxyoctadec-9-enoate",CCCCCCC(CC=CCCCCCCCC(=O)[O-])O.[K+],336.6,LLM initial name and weight
+631,336.6,POTASSIUM RICINELAIDATE/12 HYDROXY ELAIDATE/,"potassium;(Z,12R)-12-hydroxyoctadec-9-enoate",CCCCCCC(CC=CCCCCCCCC(=O)[O-])O.[K+],336.6,LLM initial name and weight
+632,295.6,POTASSIUM N-DODECYL BETA-ALANINATE,potassium;2-[dodecyl(methyl)amino]acetate,CCCCCCCCCCCCN(C)CC(=O)[O-].[K+],295.5,LLM initial name and weight
+633,292.9,N-DODECYL BETA-ALANINE HYDROCHLORIDE,"trimethyl-[2-[(1R,2S,5R)-5-methyl-2-propan-2-ylcyclohexyl]oxy-2-oxoethyl]azanium;hydrochloride",CC1CCC(C(C1)OC(=O)C[N+](C)(C)C)C(C)C.Cl,292.86,Found by mass lookup
+634,304.5,POTASSIUM DODECYL SULFATE,potassium;dodecyl sulfate,CCCCCCCCCCCCOS(=O)(=O)[O-].[K+],304.49,LLM initial name and weight
+635,256.3,LITHIUM DODECYL SULFONATE,lithium;dodecane-1-sulfonate,[Li+].CCCCCCCCCCCCS(=O)(=O)[O-],256.4,LLM initial name and weight
+636,304.4,SODIUM DODECYL THIOSULFATE,sodium;1-sulfonatosulfanyldodecane,CCCCCCCCCCCCSS(=O)(=O)[O-].[Na+],304.4,LLM initial name and weight
+637,300.4,LITHIUM TETRADECYL SULFATE,lithium;tetradecyl sulfate,[Li+].CCCCCCCCCCCCCCOS(=O)(=O)[O-],300.4,LLM initial name and weight
+638,328.4,LITHIUM HEXADECYL SULFATE,lithium;hexadecyl sulfate,[Li+].CCCCCCCCCCCCCCCCOS(=O)(=O)[O-],328.5,LLM initial name and weight
+639,290.3,SODIUM UNDECYL THIOSULFATE,sodium;11-sulfanylundecane-1-sulfonate,C(CCCCCS)CCCCCS(=O)(=O)[O-].[Na+],290.4,LLM initial name and weight
+640,325.5,HEXYL TRIMETHYLAMMONIUM HEXANE SULFATE,dodecyl(trimethyl)azanium;hydrogen sulfate,CCCCCCCCCCCC[N+](C)(C)C.OS(=O)(=O)[O-],325.5,LLM initial name and weight
+641,353.6,HEXYL TRIMETHYLAMMONIUM OCTANE SULFATE,hydrogen sulfate;trimethyl(tetradecyl)azanium,CCCCCCCCCCCCCC[N+](C)(C)C.OS(=O)(=O)[O-],353.6,LLM initial name and weight
+642,409.7,OCTYL TRIMETHYLAMMONIUM DECANE SULFATE,heptadecyl(trimethyl)azanium;methyl sulfate,CCCCCCCCCCCCCCCCC[N+](C)(C)C.COS(=O)(=O)[O-],409.7,LLM initial name and weight
+643,437.8,DODECYL TRIMETHYLAMMONIUM OCTANE SULFATE,decyl sulfate;decyl(trimethyl)azanium,CCCCCCCCCC[N+](C)(C)C.CCCCCCCCCCOS(=O)(=O)[O-],437.7,LLM initial name and weight
+644,309.5,HEXYL TRIMETHYLAMMONIUM HEXANE SULFONATE,ethanesulfonic acid;N-methyldodecan-1-amine,CCCCCCCCCCCCNC.CCS(=O)(=O)O,309.5,LLM initial name and weight
+645,268.3,PARA/BETA-D-GLUCOSYL/ETHYLBENZENE,"2,5,8,11,14-pentaoxabicyclo[13.4.0]nonadeca-1(19),15,17-triene",C1COCCOC2=CC=CC=C2OCCOCCO1,268.3,LLM retried name and weight
+646,282.4,PARA/BETA-D-GLUCOSYL/PROPYL BENZENE,"(1R,4S,5R,8S,9R,12S,13R)-1,5,9-trimethyl-11,14,15,16-tetraoxatetracyclo[10.3.1.04,13.08,13]hexadecan-10-one",CC1CCC2C(C(=O)OC3C24C1CCC(O3)(OO4)C)C,282.33,LLM initial name and weight
+647,296.4,PARA/BETA-D-GLUCOSYL/BUTYLBENZENE,"(3S,4R,5S)-4-hydroxy-5-methoxy-4-[(2S,3R)-2-methyl-3-(3-methylbut-2-enyl)oxiran-2-yl]-1-oxaspiro[2.5]octan-6-one",CC(=CCC1C(O1)(C)C2(C(C(=O)CCC23CO3)OC)O)C,296.36,LLM initial name and weight
+648,276.4,ALPHA-D-GLUCOSYL OCTANE,"propane-1,2,3-triol;undec-10-enoic acid",C=CCCCCCCCCC(=O)O.C(C(CO)O)O,276.37,LLM initial name and weight
+650,266.4,PARA/BETA-D-XYLosYL/BuTYL BENZENE,"(2R,7R,9R,11R)-2-(hydroxymethyl)-1,5-dimethylspiro[8-oxatricyclo[7.2.1.02,7]dodec-5-ene-12,2'-oxirane]-11-ol",CC1=CC2C(CC1)(C3(C(CC(C34CO4)O2)O)C)CO,266.33,LLM initial name and weight
+651,0,EMASOL 1120 /ALKYL POLYOXYETHYLENE SORBITAN ESTER/,N/A,N/A,0,Unknown
+652,0,EMASOL 1130 /ALKYL POLYOXYETHYLENE SORBITAN ESTER/,N/A,N/A,0,Unknown
+653,0,EMULGEN 120 /ALKYL POLYOXYETHYLENE ETHER/,N/A,N/A,0,Unknown
+654,374.7,OCTADECYL TRIMETHYLAMMONIUM NITRATE,trimethyl(octadecyl)azanium;nitrate,CCCCCCCCCCCCCCCCCC[N+](C)(C)C.[N+](=O)([O-])[O-],374.6,LLM initial name and weight
+655,368.1,OCTADECYL PYRIDINIUM CHLORIDE,benzyl-dimethyl-tetradecylazanium;chloride,CCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],368,LLM initial name and weight
+656,394.7,OCTADECYL PYRIDINIUM NITRATE,1-(1-adamantyl)-3-[5-(4-propoxybutoxy)pentyl]urea,CCCOCCCCOCCCCCNC(=O)NC12CC3CC(C1)CC(C3)C2,394.6,LLM initial name and weight
+657,412.6,OCTADECYL PYRIDINIUM BROMIDE,benzyl-dimethyl-tetradecylazanium;bromide,CCCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Br-],412.5,LLM initial name and weight
+658,440.6,OCTADECYL TRIMETHYLAMMONIUM BROMATE,trimethyl(octadecyl)azanium;bromate,CCCCCCCCCCCCCCCCCC[N+](C)(C)C.[O-]Br(=O)=O,440.5,LLM initial name and weight
+659,357.7,OCTADECYL TRIMETHYLAMMONIUM FORMATE,2-[2-hydroxyethyl(octadecyl)amino]ethanol,CCCCCCCCCCCCCCCCCCN(CCO)CCO,357.6,LLM initial name and weight
+660,479.5,HEXADECYL PYRIDINIUM IODATE,"[1-(1-methylpiperidin-1-ium-1-yl)-3-[[(1S,4S)-1,7,7-trimethyl-2-bicyclo[2.2.1]heptanyl]oxy]propan-2-yl] acetate;iodide",CC(=O)OC(C[N+]1(CCCCC1)C)COC2CC3CCC2(C3(C)C)C.[I-],479.4,LLM initial name and weight
+661,507.6,OCTADECYL PYRIDINIUM IODATE,"6-(4-hexoxy-3,5-dimethoxyphenyl)hexyl-trimethylazanium;iodide",CCCCCCOC1=C(C=C(C=C1OC)CCCCCC[N+](C)(C)C)OC.[I-],507.5,LLM initial name and weight
+662,482.7,OCTADECYL TRIETHYLAMMONIUM BROMATE,triethyl(octadecyl)azanium;bromate,CCCCCCCCCCCCCCCCCC[N+](CC)(CC)CC.[O-]Br(=O)=O,482.6,LLM initial name and weight
+663,524.8,OCTADECYL TRIPROPYLAMMONIUM BROMATE,4-(3-hexadecoxy-2-methoxypropoxy)butyl-trimethylazanium;bromide,CCCCCCCCCCCCCCCCOCC(COCCCC[N+](C)(C)C)OC.[Br-],524.7,LLM initial name and weight
+664,566.9,OCTADECYL TRIBUTYLAMMONIUM BROMATE,N/A,N/A,0,Unknown
+665,608.9,OCTADECYL TRIAMYLAMMONIUM BROMATE,10-(3-hexadecoxy-2-methoxypropoxy)decyl-trimethylazanium;bromide,CCCCCCCCCCCCCCCCOCC(COCCCCCCCCCC[N+](C)(C)C)OC.[Br-],608.8,LLM initial name and weight
+666,538.8,HEXADECYL TRIBUTYLAMMONIUM BROMATE,4-(2-ethoxy-3-hexadecoxypropoxy)butyl-trimethylazanium;bromide,CCCCCCCCCCCCCCCCOCC(COCCCC[N+](C)(C)C)OCC.[Br-],538.7,LLM initial name and weight
+667,713.4,OCTADECYL TRIMETHYLAMMONIUM OXALATE,N/A,N/A,0,Unknown
+668,292.5,DIPOTASSIUM OCTYL MALONATE,"dipotassium;2,2-ditert-butylpropanedioate",CC(C)(C)C(C(=O)[O-])(C(=O)[O-])C(C)(C)C.[K+].[K+],292.45,LLM initial name and weight
+669,320.5,DIPOTASSIUM DECYL MALONATE,dipotassium;tridecanedioate,C(CCCCCC(=O)[O-])CCCCCC(=O)[O-].[K+].[K+],320.51,LLM initial name and weight
+670,348.6,DIPOTASSIUM DODECYL MALONATE,dipotassium;2-dodecylpropanedioate,CCCCCCCCCCCCC(C(=O)[O-])C(=O)[O-].[K+].[K+],348.56,LLM initial name and weight
+671,376.7,DIPOTASSIUM TETRADECYL MALONATE,"dipotassium;2,2-diheptylpropanedioate",CCCCCCCC(CCCCCCC)(C(=O)[O-])C(=O)[O-].[K+].[K+],376.6,LLM initial name and weight
+672,404.7,DIPOTASSIUM HEXADECYL MALONATE,dipotassium;2-butyl-2-dodecylpropanedioate,CCCCCCCCCCCCC(CCCC)(C(=O)[O-])C(=O)[O-].[K+].[K+],404.7,LLM initial name and weight
+673,432.8,DIPOTASSIUM OCTADECYL MALONATE,dipotassium;2-dodecyl-2-hexylpropanedioate,CCCCCCCCCCCCC(CCCCCC)(C(=O)[O-])C(=O)[O-].[K+].[K+],432.7,LLM initial name and weight
+674,470.7,"DIISOBUTYL BENZENE/OXYETHYLENE/6 ALCOHOL (DB) BRANCHED CHAIN, NATURAL 0E DISTRIBUTION","2,3-di(octanoyloxy)propyl octanoate",CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC,470.7,Found by mass lookup
+675,647,OCTYL BENZENE /OXYETHYLENE/10 ALCOHOL NATURAL DISTRIBUTION OF HEAD GROUPS,"(27S,29R)-27,29-dihydroxy-1-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxytriacontan-3-one",CC(CC(CCCCCCCCCCCCCCCCCCCCCCCC(=O)CCOC1C(C(C(C(O1)CO)O)O)O)O)O,646.9,Found by mass lookup
+676,292.3,"SODIUM 1, 1. 3, 3-TETRAMETHYL BUTYL BENZENE SULFONATE",sodium;4-octylbenzenesulfonate,CCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],292.37,LLM initial name and weight
+677,404.6,"SODIUM 1, 3-TETRAMETHYL BUTYL/BENZENESULFONATE",sodium;4-hexadecan-8-ylbenzenesulfonate,CCCCCCCCC(CCCCCCC)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],404.6,Found by mass lookup
+678,334.4,"SODIUM 1, 1-DIMETHYLNONYL BENZENE SULFONATE",sodium;3-undecylbenzenesulfonate,CCCCCCCCCCCC1=CC(=CC=C1)S(=O)(=O)[O-].[Na+],334.5,LLM initial name and weight
+679,334.4,SODIUM 3-BUTYL HEPTYL BENZENE SULFONATE,sodium;3-undecylbenzenesulfonate,CCCCCCCCCCCC1=CC(=CC=C1)S(=O)(=O)[O-].[Na+],334.5,LLM initial name and weight
+680,348.5,SODIUM 2-PROPYL-4-METHYL-CTYL BENZENE SULFONATE,sodium;4-dodecan-2-ylbenzenesulfonate,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],348.5,LLM initial name and weight
+681,292.3,SODIUM DIBUTYL BENZENE SULFONATE,sodium;4-octylbenzenesulfonate,CCCCCCCCC1=CC=C(C=C1)S(=O)(=O)[O-].[Na+],292.37,LLM initial name and weight
+682,342.4,SODIUM DIBUTYL NAPHTHALENE SULFONATE /NEKAL/,"sodium;3,6-dibutylnaphthalene-1-sulfonate",CCCCC1=CC2=C(C=C1)C(=CC(=C2)CCCC)S(=O)(=O)[O-].[Na+],342.4,LLM initial name and weight
+683,460.7,SODIUM EICOSYLBENZENE SULFONATE,sodium;1-(4-methylphenyl)nonadecane-1-sulfonate,CCCCCCCCCCCCCCCCCCC(C1=CC=C(C=C1)C)S(=O)(=O)[O-].[Na+],460.7,LLM initial name and weight
+684,178.3,HEXYL SULFINYLETHANOL,1-butylsulfonylbutane,CCCCS(=O)(=O)CCCC,178.29,LLM initial name and weight
+685,192.3,HEXYL SULFINYLPROPANOL,1-methylsulfonyloctane,CCCCCCCCS(=O)(=O)C,192.32,LLM initial name and weight
+686,206.3,HEXYL SULFINYLBUTANOL,2-octylsulfinylethanol,CCCCCCCCS(=O)CCO,206.35,LLM initial name and weight
+687,220.4,HEXYL SULFINYLPENTANOL,1-methylsulfonyldecane,CCCCCCCCCCS(=O)(=O)C,220.37,LLM initial name and weight
+688,206.3,OCTYL SULFINYLETHANOL,2-octylsulfinylethanol,CCCCCCCCS(=O)CCO,206.35,LLM initial name and weight
+689,220.4,OCTYL SULFINYLPROPANOL,1-methylsulfonyldecane,CCCCCCCCCCS(=O)(=O)C,220.37,LLM initial name and weight
+690,234.4,OCTYL SULFINYLBUTANOL,2-decylsulfinylethanol,CCCCCCCCCCS(=O)CCO,234.4,LLM initial name and weight
+691,176.3,OCTYL METHYL SULFOXIDE,9-sulfanylnonan-1-ol,C(CCCCO)CCCCS,176.32,LLM initial name and weight
+692,234.4,DECYL SULFINYLETHANOL,2-decylsulfinylethanol,CCCCCCCCCCS(=O)CCO,234.4,LLM initial name and weight
+693,354.1,N-CETYL 2-METHYL PYRIDINIUM CHLORIDE,benzyl-dimethyl-tridecylazanium;chloride,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],354,LLM initial name and weight
+694,354.1,N-CETYL 3-METHYL PYRIDINIUM CHLORIDE,benzyl-dimethyl-tridecylazanium;chloride,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],354,LLM initial name and weight
+695,354.1,N-CETYL 4-METHYL PYRIDINIUM CHLORIDE,benzyl-dimethyl-tridecylazanium;chloride,CCCCCCCCCCCCC[N+](C)(C)CC1=CC=CC=C1.[Cl-],354,LLM initial name and weight
+696,445.5,N-CETIL 2-METHYL PYRIDINIUM IODIDE,1-heptadecylpyridin-1-ium;iodide,CCCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[I-],445.5,LLM initial name and weight
+697,445.5,N-CETYL-3-METHYL PYRIDINIUM IODIDE,1-heptadecylpyridin-1-ium;iodide,CCCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[I-],445.5,LLM initial name and weight
+698,445.5,N-CETYL-4-METHYL PYRIDINIUM IODIDE,1-heptadecylpyridin-1-ium;iodide,CCCCCCCCCCCCCCCCC[N+]1=CC=CC=C1.[I-],445.5,LLM initial name and weight
+699,110.1,SODIUM BUTYRATE,sodium;butanoate,CCCC(=O)[O-].[Na+],110.09,LLM initial name and weight
+700,116.2,HEXANOIC ACID,hexanoic acid,CCCCCC(=O)O,116.16,LLM initial name and weight
+701,352.2,POTASSIUM PERFLUROHEXANOATE,"potassium;2,2,3,3,4,4,5,5,6,6,6-undecafluorohexanoate",C(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)[O-].[K+],352.14,LLM initial name and weight
+702,552.2,POTASSIUM PERFLUORODECANOATE,"potassium;2,2,3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-nonadecafluorodecanoate",C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)[O-].[K+],552.17,LLM initial name and weight
+703,194.3,HEXYL RESORCINOL,"4-hexylbenzene-1,3-diol",CCCCCCC1=C(C=C(C=C1)O)O,194.27,LLM initial name and weight
+704,232.4,POTASSIUM 4-HEXYL RESORCINOLATE,potassium;benzene;but-2-enoic acid;ethane,C[CH2-].CC=CC(=O)O.C1=CC=CC=C1.[K+],232.36,LLM initial name and weight
+705,266.4,DODECYL SULFURIC ACID,dodecyl hydrogen sulfate,CCCCCCCCCCCCOS(=O)(=O)O,266.4,LLM initial name and weight
+706,185.1,PERFLUORO PROPYLAMINE,N/A,N/A,0,Unknown
+707,221.5,PERFLUORO PROPYLAMINE HYDROCHLORIDE,N/A,N/A,0,Unknown
+708,101.2,HEXYLAMINE,"N,N-diethylethanamine",CCN(CC)CC,101.19,LLM initial name and weight
+709,137.7,HEXYLAMINE HYDROCHLORIDE,"N,N-diethylethanamine;hydrochloride",CCN(CC)CC.Cl,137.65,Found by mass lookup
+710,190.3,OCTYL DIMETHYL PHOSPHINE OXIDE,1-dimethylphosphoryloctane,CCCCCCCCP(=O)(C)C,190.26,LLM initial name and weight
+711,218.4,DECYL DIMETHYL PHOSPHINE OXIDE,1-dibutylphosphorylbutane,CCCCP(=O)(CCCC)CCCC,218.32,LLM initial name and weight
+712,246.4,DODECYL DIMETHYL PHOSPHINE OXIDE,1-dimethylphosphoryldodecane,CCCCCCCCCCCCP(=O)(C)C,246.37,LLM initial name and weight
+713,215.4,UNDECYL DIMETHYL AMINE OXIDE,"N,N-dimethylundecan-1-amine oxide",CCCCCCCCCCC[N+](C)(C)[O-],215.38,LLM initial name and weight
+714,145.3,HEXYL DIMETHYL AMINE OXIDE,6-amino-2-methylheptan-2-ol,CC(CCCC(C)(C)O)N,145.24,LLM initial name and weight
+715,159.3,HEPTYL DIMETHYL AMINE OXIDE,"3-(diethylamino)-2,2-dimethylpropan-1-ol",CCN(CC)CC(C)(C)CO,159.27,LLM initial name and weight
+716,891.3,DODECYL /OXYETHYLENE/16 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,N/A,N/A,0,Unknown
+717,378.4,DODECYLQUINOLINIUM BROMIDE,2-dodecylisoquinolin-2-ium;bromide,CCCCCCCCCCCC[N+]1=CC2=CC=CC=C2C=C1.[Br-],378.4,LLM initial name and weight
+718,395.7,TETRAETHYLAMMONIUM DODECYL SULFATE,hexadecyl(trimethyl)azanium;methyl sulfate,CCCCCCCCCCCCCCCC[N+](C)(C)C.COS(=O)(=O)[O-],395.6,LLM initial name and weight
+719,507.9,TETRABUTYLAMMONIUM DODECYL SULFATE,hydrogen sulfate;tetraheptylazanium,CCCCCCC[N+](CCCCCCC)(CCCCCCC)CCCCCCC.OS(=O)(=O)[O-],507.9,LLM initial name and weight
+720,733.2,DITRIMETHYLAMMONIUM-HEXANE/DODECYL SULFATE/2,dodecyl(triethyl)azanium;sulfonatooxy sulfate,CCCCCCCCCCCC[N+](CC)(CC)CC.CCCCCCCCCCCC[N+](CC)(CC)CC.[O-]S(=O)(=O)OOS(=O)(=O)[O-],733.2,Found by mass lookup
+721,1542.1,NONYL BENZENE /OXYETHYLENE/30 ALCOHOL BRANCHED CHAIN REDUCED 0E DISTRIBUTION,N/A,N/A,0,Unknown
+112,339.5,TETRAMETHYL AMMONIUM DODECYL 1 SULFATE,hydrogen sulfate;tetrabutylazanium,CCCC[N+](CCCC)(CCCC)CCCC.OS(=O)(=O)[O-],339.5,LLM initial name and weight
+113,420.5,SODIUM DODECYL TRI-0XYETHYLENE SULFATE,sodium;2-[2-(2-dodecoxyethoxy)ethoxy]ethyl sulfate,CCCCCCCCCCCCOCCOCCOCCOS(=O)(=O)[O-].[Na+],420.5,LLM initial name and weight
+114,1059.4,SODIUM DODECYL /OXYETHYLENE/17.5 SULFATE,N/A,N/A,0,Unknown
+118,215.3,OCTYL N BETAINE,12-aminododecanoic acid,C(CCCCCC(=O)O)CCCCCN,215.33,Found by mass lookup
+322,1101.6,"NONYL BENZENE/OXYETHYLENE/20 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION",N/A,N/A,0,Unknown
+323,1542.2,"NONYL BENZENE/OXYETHYLENE/30 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION",N/A,N/A,0,Unknown
+324,2423.4,"NONYL BENZENE/OXYETHYLENE/50 ALCOHOL BRANCHED CHAIN, REDUCED 0E DISTRIBUTION",N/A,N/A,0,Unknown
+325,362.6,DODECYL/OXYETHYLENE/4 ALCOHOL REDUCED POLYDISPERSITY OF HEAD GROUPS,2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethanol,CCCCCCCCCCCCOCCOCCOCCOCCO,362.5,LLM initial name and weight

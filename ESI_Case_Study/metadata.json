@@ -1,0 +1,25 @@
+<script type="application/ld+json">
+{
+    "@context": {
+      "dcat": "http://www.w3.org/ns/dcat#",
+      "dcterms": "http://purl.org/dc/terms/",
+      "foaf": "http://xmlns.com/foaf/0.1/"
+    },
+    "@id": "https://doi.org/10.1002/cmdc.202000533",
+    "@type": "dcat:Catalog",
+    "dcat:dataset": {
+      "@id": "https://zenodo.org/record/XXXXXX",
+      "@type": "dcat:Dataset",
+      "dcterms:title": "##Report dataset title##",
+      "dcterms:description": "Chemical Modelling Consortium (CMC) dataset linked to the paper https://doi.org/10.1002/cmdc.202000533 on Zenodo",
+      "dcat:distribution": {
+        "@id": "https://zenodo.org/record/XXXXXX/files/data.json",
+        "@type": "dcat:Distribution",
+        "dcterms:title": "CMC Data Download",
+        "dcterms:format": "application/json",
+        "dcat:downloadURL": "https://zenodo.org/record/XXXXXX/files/data.json"
+      }
+    }
+  }
+  
+</script>
