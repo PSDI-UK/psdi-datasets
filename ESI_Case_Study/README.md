@@ -1,6 +1,6 @@
 # Electronic Supplementary Exemplar
 
-**Last Updated:** 2024-11-14.
+**Last Updated:** 2025-04-29.
 
 ## Author Information
 
@@ -33,6 +33,10 @@ We have extracted the image of the Surface Tension vs concentration plot used to
 The JSON files contain information on the molecule, its identifiers, the coordinates extracted from the plot and the original line of best fit from the ESI. The JSON file was extracted using methods outlined in the report (insert report info before publication) with definition referenced to anthologies where the terms are available, see ontology_references_and_definitions.csv file.
  
 We also have the .ipynb files used to curate and re-plot the JSON files.
+
+## Link to the report
+
+Thomas, A., Pearman-Kanza, S., Frey, J., & Gow, S. (2025). Electronic Supplementary Information Case Study (Version 1). Zenodo. https://doi.org/10.5281/zenodo.15295742
 
 ## License
 
